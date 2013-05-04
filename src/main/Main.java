@@ -1,7 +1,6 @@
 package main;
 
 import java.util.ArrayList;
-
 import common.Comment;
 
 
@@ -11,7 +10,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 
-		String file1="latviesu";
+		/*String file1="latviesu";
 		String file2="dazadi";
 		String file3="translits";
 		FileProcessor processor=new FileProcessor();
@@ -31,7 +30,7 @@ public class Main {
 		catch (Exception e) 
 		{
 			e.printStackTrace();
-		}
+		}*/
 		
 	}
 	
