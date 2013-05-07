@@ -10,7 +10,8 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import translit.TranslitProcessor;
+import methods.TranslitProcessor;
+
 
 import common.Comment;
 import common.Word;

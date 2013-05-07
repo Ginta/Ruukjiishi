@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rules>
+	<fuzzy>
+		<!-- basic fuzy -->
+		<r target="a">ā</r>
+		<r target="aa">ā</r>
+		<r target="e">ē</r>
+		<r target="ee">ē</r>
+		<r target="u">ū</r>
+		<r target="uu">ū</r>
+		<r target="i">ī</r>
+		<r target="ii">ī</r>
+		<r target="s">š</r>
+		<r target="sh">š</r>
+		<r target="g">ģ</r>
+		<r target="gj">ģ</r>
+		<r target="k">ķ</r>
+		<r target="kj">ķ</r>
+		<r target="l">ļ</r>
+		<r target="lj">ļ</r>
+		<r target="ll">ļ</r>
+		<r target="z">ž</r>
+		<r target="zh">ž</r>
+		<r target="x">ks</r>
+		<r target="c">č</r>
+		<r target="ch">č</r>
+		<r target="n">ņ</r>
+		<r target="nj">ņ</r>
+		<r target="4">č</r>
+		<r target="w">u</r>
+		
+		<!-- numbers fuzzy -->
+		<r target="1">
+			<replace position="begin">pirm</replace>
+			<replace position="begin">vien</replace>
+		</r>
+		<r target="2">
+			<replace position="begin">otr</replace>
+			<replace position="begin">div</replace>
+		</r>
+		<r target="3">
+			<replace position="begin">treš</replace>
+			<replace position="begin">trīs</replace>
+		</r>
+		<r target="4">
+			<replace position="begin">ceturt</replace>
+			<replace position="begin">četr</replace>
+		</r>
+		<r target="5">
+			<replace position="begin">piekt</replace>
+			<replace position="begin">pieci</replace>
+		</r>
+		<r target="6">
+			<replace position="begin">sest</replace>
+			<replace position="begin">seši</replace>
+		</r>
+		<r target="7">
+			<replace position="begin">septīt</replace>
+			<replace position="begin">septiņ</replace>
+		</r>
+		<r target="8">
+			<replace position="begin">astot</replace>
+			<replace position="begin">astoņ</replace>
+		</r>
+		<r target="9">
+			<replace position="begin">devīt</replace>
+			<replace position="begin">deviņ</replace>
+		</r>
+		
+		<!-- comon mistakes -->
+		<r target="kk">
+			<replace position="begin">kaut k</replace>
+		</r>
+		<r target="c">
+			<replace position="end">ts</replace>
+		</r>
+		<r target="waj">
+			<replace position="exact">vai</replace>
+		</r>
+		<r target="vaj">
+			<replace position="exact">vai</replace>
+		</r>
+		<r target="nau">
+			<replace position="exact">nav</replace>
+		</r>
+		<r target="jaw">
+			<replace position="exact">jau</replace>
+		</r>
+			<r target="smth">
+			<replace position="exact">kaut kas</replace>
+		</r>
+	</fuzzy>
+</rules>
