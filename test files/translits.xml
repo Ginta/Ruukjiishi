@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+	<comment words="8" words_in_dictionary="1.00000" ngram_probability="0.50625" percentage_of_trasnlit_rules="0.10833" cumulative_probability="0.90810">
+		<original>﻿Es taa pat dariitu!Un draugus talkaa sauktu! :D :D :D</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.45323" percentage_of_trasnlit_rules="0.00000">Es</word>
+			<word is_in_dictionary="1" ngram_probability="0.54851" percentage_of_trasnlit_rules="0.50000">taa</word>
+			<word is_in_dictionary="1" ngram_probability="0.46109" percentage_of_trasnlit_rules="0.00000">pat</word>
+			<word is_in_dictionary="1" ngram_probability="0.60405" percentage_of_trasnlit_rules="0.16667">dariitu</word>
+			<word is_in_dictionary="1" ngram_probability="0.40150" percentage_of_trasnlit_rules="0.00000">Un</word>
+			<word is_in_dictionary="1" ngram_probability="0.49431" percentage_of_trasnlit_rules="0.00000">draugus</word>
+			<word is_in_dictionary="1" ngram_probability="0.59293" percentage_of_trasnlit_rules="0.20000">talkaa</word>
+			<word is_in_dictionary="1" ngram_probability="0.49436" percentage_of_trasnlit_rules="0.00000">sauktu</word>
+		</words>
+	</comment>
+	<comment words="24" words_in_dictionary="1.00000" ngram_probability="0.48833" percentage_of_trasnlit_rules="0.01736" cumulative_probability="0.76949">
+		<original>Stulbenu bars juus..cikm draugu ir mums krievalodiigo..un ko irija un uk lai saka..?tur tak pilns ar latviesiem ..ha ha pieaugat reiz..</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.56638" percentage_of_trasnlit_rules="0.00000">Stulbenu</word>
+			<word is_in_dictionary="1" ngram_probability="0.49704" percentage_of_trasnlit_rules="0.00000">bars</word>
+			<word is_in_dictionary="1" ngram_probability="0.55196" percentage_of_trasnlit_rules="0.33333">juus</word>
+			<word is_in_dictionary="1" ngram_probability="0.48905" percentage_of_trasnlit_rules="0.00000">cikm</word>
+			<word is_in_dictionary="1" ngram_probability="0.48846" percentage_of_trasnlit_rules="0.00000">draugu</word>
+			<word is_in_dictionary="1" ngram_probability="0.42158" percentage_of_trasnlit_rules="0.00000">ir</word>
+			<word is_in_dictionary="1" ngram_probability="0.46665" percentage_of_trasnlit_rules="0.00000">mums</word>
+			<word is_in_dictionary="1" ngram_probability="0.67145" percentage_of_trasnlit_rules="0.08333">krievalodiigo</word>
+			<word is_in_dictionary="1" ngram_probability="0.40150" percentage_of_trasnlit_rules="0.00000">un</word>
+			<word is_in_dictionary="1" ngram_probability="0.44923" percentage_of_trasnlit_rules="0.00000">ko</word>
+			<word is_in_dictionary="1" ngram_probability="0.52947" percentage_of_trasnlit_rules="0.00000">irija</word>
+			<word is_in_dictionary="1" ngram_probability="0.40150" percentage_of_trasnlit_rules="0.00000">un</word>
+			<word is_in_dictionary="1" ngram_probability="0.45132" percentage_of_trasnlit_rules="0.00000">uk</word>
+			<word is_in_dictionary="1" ngram_probability="0.44099" percentage_of_trasnlit_rules="0.00000">lai</word>
+			<word is_in_dictionary="1" ngram_probability="0.49940" percentage_of_trasnlit_rules="0.00000">saka</word>
+			<word is_in_dictionary="1" ngram_probability="0.46155" percentage_of_trasnlit_rules="0.00000">tur</word>
+			<word is_in_dictionary="1" ngram_probability="0.48061" percentage_of_trasnlit_rules="0.00000">tak</word>
+			<word is_in_dictionary="1" ngram_probability="0.48675" percentage_of_trasnlit_rules="0.00000">pilns</word>
+			<word is_in_dictionary="1" ngram_probability="0.44611" percentage_of_trasnlit_rules="0.00000">ar</word>
+			<word is_in_dictionary="1" ngram_probability="0.57804" percentage_of_trasnlit_rules="0.00000">latviesiem</word>
+			<word is_in_dictionary="1" ngram_probability="0.46258" percentage_of_trasnlit_rules="0.00000">ha</word>
+			<word is_in_dictionary="1" ngram_probability="0.46258" percentage_of_trasnlit_rules="0.00000">ha</word>
+			<word is_in_dictionary="1" ngram_probability="0.51290" percentage_of_trasnlit_rules="0.00000">pieaugat</word>
+			<word is_in_dictionary="1" ngram_probability="0.50275" percentage_of_trasnlit_rules="0.00000">reiz</word>
+		</words>
+	</comment>
+	<comment words="20" words_in_dictionary="0.95000" ngram_probability="0.48867" percentage_of_trasnlit_rules="0.08917" cumulative_probability="0.82259">
+		<original>ar pirdienu taa ir kaa ir...  Sirdsapzina ir tikai ja kaads blakus seez... bet es labaak tpaklausu galvai un laizu...</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.44611" percentage_of_trasnlit_rules="0.00000">ar</word>
+			<word is_in_dictionary="1" ngram_probability="0.47745" percentage_of_trasnlit_rules="0.00000">pirdienu</word>
+			<word is_in_dictionary="1" ngram_probability="0.54851" percentage_of_trasnlit_rules="0.50000">taa</word>
+			<word is_in_dictionary="1" ngram_probability="0.42158" percentage_of_trasnlit_rules="0.00000">ir</word>
+			<word is_in_dictionary="1" ngram_probability="0.54496" percentage_of_trasnlit_rules="0.50000">kaa</word>
+			<word is_in_dictionary="1" ngram_probability="0.42158" percentage_of_trasnlit_rules="0.00000">ir</word>
+			<word is_in_dictionary="1" ngram_probability="0.53950" percentage_of_trasnlit_rules="0.00000">Sirdsapzina</word>
+			<word is_in_dictionary="1" ngram_probability="0.42158" percentage_of_trasnlit_rules="0.00000">ir</word>
+			<word is_in_dictionary="1" ngram_probability="0.43319" percentage_of_trasnlit_rules="0.00000">tikai</word>
+			<word is_in_dictionary="1" ngram_probability="0.49316" percentage_of_trasnlit_rules="0.00000">ja</word>
+			<word is_in_dictionary="1" ngram_probability="0.60838" percentage_of_trasnlit_rules="0.25000">kaads</word>
+			<word is_in_dictionary="1" ngram_probability="0.48845" percentage_of_trasnlit_rules="0.00000">blakus</word>
+			<word is_in_dictionary="1" ngram_probability="0.46439" percentage_of_trasnlit_rules="0.33333">seez</word>
+			<word is_in_dictionary="1" ngram_probability="0.44744" percentage_of_trasnlit_rules="0.00000">bet</word>
+			<word is_in_dictionary="1" ngram_probability="0.45323" percentage_of_trasnlit_rules="0.00000">es</word>
+			<word is_in_dictionary="1" ngram_probability="0.61555" percentage_of_trasnlit_rules="0.20000">labaak</word>
+			<word is_in_dictionary="0" ngram_probability="0.51894" percentage_of_trasnlit_rules="0.00000">tpaklausu</word>
+			<word is_in_dictionary="1" ngram_probability="0.45682" percentage_of_trasnlit_rules="0.00000">galvai</word>
+			<word is_in_dictionary="1" ngram_probability="0.40150" percentage_of_trasnlit_rules="0.00000">un</word>
+			<word is_in_dictionary="1" ngram_probability="0.57102" percentage_of_trasnlit_rules="0.00000">laizu</word>
+		</words>
+	</comment>
+	<comment words="13" words_in_dictionary="0.92308" ngram_probability="0.47980" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.66544">
+		<original>Bet ja es nopirdisos tu teiksi fuj ka smird, kas ar tevi ir!</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.44744" percentage_of_trasnlit_rules="0.00000">Bet</word>
+			<word is_in_dictionary="1" ngram_probability="0.49316" percentage_of_trasnlit_rules="0.00000">ja</word>
+			<word is_in_dictionary="1" ngram_probability="0.45323" percentage_of_trasnlit_rules="0.00000">es</word>
+			<word is_in_dictionary="0" ngram_probability="0.53238" percentage_of_trasnlit_rules="0.00000">nopirdisos</word>
+			<word is_in_dictionary="1" ngram_probability="0.47147" percentage_of_trasnlit_rules="0.00000">tu</word>
+			<word is_in_dictionary="1" ngram_probability="0.51821" percentage_of_trasnlit_rules="0.00000">teiksi</word>
+			<word is_in_dictionary="1" ngram_probability="0.45006" percentage_of_trasnlit_rules="0.00000">fuj</word>
+			<word is_in_dictionary="1" ngram_probability="0.50349" percentage_of_trasnlit_rules="0.00000">ka</word>
+			<word is_in_dictionary="1" ngram_probability="0.51174" percentage_of_trasnlit_rules="0.00000">smird</word>
+			<word is_in_dictionary="1" ngram_probability="0.47265" percentage_of_trasnlit_rules="0.00000">kas</word>
+			<word is_in_dictionary="1" ngram_probability="0.44611" percentage_of_trasnlit_rules="0.00000">ar</word>
+			<word is_in_dictionary="1" ngram_probability="0.51596" percentage_of_trasnlit_rules="0.00000">tevi</word>
+			<word is_in_dictionary="1" ngram_probability="0.42158" percentage_of_trasnlit_rules="0.00000">ir</word>
+		</words>
+	</comment>
+	<comment words="6" words_in_dictionary="1.00000" ngram_probability="0.53598" percentage_of_trasnlit_rules="0.04444" cumulative_probability="0.83443">
+		<original>Vbt ari veelies iepaziities ar mani?</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.48848" percentage_of_trasnlit_rules="0.00000">Vbt</word>
+			<word is_in_dictionary="1" ngram_probability="0.53710" percentage_of_trasnlit_rules="0.00000">ari</word>
+			<word is_in_dictionary="1" ngram_probability="0.59600" percentage_of_trasnlit_rules="0.16667">veelies</word>
+			<word is_in_dictionary="1" ngram_probability="0.63814" percentage_of_trasnlit_rules="0.10000">iepaziities</word>
+			<word is_in_dictionary="1" ngram_probability="0.44611" percentage_of_trasnlit_rules="0.00000">ar</word>
+			<word is_in_dictionary="1" ngram_probability="0.51003" percentage_of_trasnlit_rules="0.00000">mani</word>
+		</words>
+	</comment>
+	<comment words="17" words_in_dictionary="1.00000" ngram_probability="0.50138" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.75226">
+		<original>Vins man ieleja snabi, es apvemos un teicu, piedod, man ir alergija pret urinu, iedod labak apiniti!</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.52707" percentage_of_trasnlit_rules="0.00000">Vins</word>
+			<word is_in_dictionary="1" ngram_probability="0.43039" percentage_of_trasnlit_rules="0.00000">man</word>
+			<word is_in_dictionary="1" ngram_probability="0.49988" percentage_of_trasnlit_rules="0.00000">ieleja</word>
+			<word is_in_dictionary="1" ngram_probability="0.56768" percentage_of_trasnlit_rules="0.00000">snabi</word>
+			<word is_in_dictionary="1" ngram_probability="0.45323" percentage_of_trasnlit_rules="0.00000">es</word>
+			<word is_in_dictionary="1" ngram_probability="0.60587" percentage_of_trasnlit_rules="0.00000">apvemos</word>
+			<word is_in_dictionary="1" ngram_probability="0.40150" percentage_of_trasnlit_rules="0.00000">un</word>
+			<word is_in_dictionary="1" ngram_probability="0.50520" percentage_of_trasnlit_rules="0.00000">teicu</word>
+			<word is_in_dictionary="1" ngram_probability="0.51411" percentage_of_trasnlit_rules="0.00000">piedod</word>
+			<word is_in_dictionary="1" ngram_probability="0.43039" percentage_of_trasnlit_rules="0.00000">man</word>
+			<word is_in_dictionary="1" ngram_probability="0.42158" percentage_of_trasnlit_rules="0.00000">ir</word>
+			<word is_in_dictionary="1" ngram_probability="0.52748" percentage_of_trasnlit_rules="0.00000">alergija</word>
+			<word is_in_dictionary="1" ngram_probability="0.44928" percentage_of_trasnlit_rules="0.00000">pret</word>
+			<word is_in_dictionary="1" ngram_probability="0.52798" percentage_of_trasnlit_rules="0.00000">urinu</word>
+			<word is_in_dictionary="1" ngram_probability="0.51649" percentage_of_trasnlit_rules="0.00000">iedod</word>
+			<word is_in_dictionary="1" ngram_probability="0.58486" percentage_of_trasnlit_rules="0.00000">labak</word>
+			<word is_in_dictionary="1" ngram_probability="0.56047" percentage_of_trasnlit_rules="0.00000">apiniti</word>
+		</words>
+	</comment>
+	<comment words="2" words_in_dictionary="1.00000" ngram_probability="0.56236" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.78638">
+		<original>ludzu palidzi :(</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.55855" percentage_of_trasnlit_rules="0.00000">ludzu</word>
+			<word is_in_dictionary="1" ngram_probability="0.56618" percentage_of_trasnlit_rules="0.00000">palidzi</word>
+		</words>
+	</comment>
+	<comment words="7" words_in_dictionary="1.00000" ngram_probability="0.32987" percentage_of_trasnlit_rules="0.14286" cumulative_probability="0.85822">
+		<original>wtf? es google skatijos tikko 69 rada!</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.00000" percentage_of_trasnlit_rules="1.00000">wtf</word>
+			<word is_in_dictionary="1" ngram_probability="0.45323" percentage_of_trasnlit_rules="0.00000">es</word>
+			<word is_in_dictionary="1" ngram_probability="0.39291" percentage_of_trasnlit_rules="0.00000">google</word>
+			<word is_in_dictionary="1" ngram_probability="0.53624" percentage_of_trasnlit_rules="0.00000">skatijos</word>
+			<word is_in_dictionary="1" ngram_probability="0.42973" percentage_of_trasnlit_rules="0.00000">tikko</word>
+			<word is_in_dictionary="1" ngram_probability="0.00000" percentage_of_trasnlit_rules="0.00000">69</word>
+			<word is_in_dictionary="1" ngram_probability="0.49699" percentage_of_trasnlit_rules="0.00000">rada</word>
+		</words>
+	</comment>
+	<comment words="17" words_in_dictionary="1.00000" ngram_probability="0.48778" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.74465">
+		<original>Tas nav godigi ka citi var ka mes ne .Ja visi tad visi ja neviens tad neviens</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.50064" percentage_of_trasnlit_rules="0.00000">Tas</word>
+			<word is_in_dictionary="1" ngram_probability="0.40114" percentage_of_trasnlit_rules="0.00000">nav</word>
+			<word is_in_dictionary="1" ngram_probability="0.59226" percentage_of_trasnlit_rules="0.00000">godigi</word>
+			<word is_in_dictionary="1" ngram_probability="0.50349" percentage_of_trasnlit_rules="0.00000">ka</word>
+			<word is_in_dictionary="1" ngram_probability="0.48704" percentage_of_trasnlit_rules="0.00000">citi</word>
+			<word is_in_dictionary="1" ngram_probability="0.44753" percentage_of_trasnlit_rules="0.00000">var</word>
+			<word is_in_dictionary="1" ngram_probability="0.50349" percentage_of_trasnlit_rules="0.00000">ka</word>
+			<word is_in_dictionary="1" ngram_probability="0.52897" percentage_of_trasnlit_rules="0.00000">mes</word>
+			<word is_in_dictionary="1" ngram_probability="0.49945" percentage_of_trasnlit_rules="0.00000">ne</word>
+			<word is_in_dictionary="1" ngram_probability="0.49316" percentage_of_trasnlit_rules="0.00000">Ja</word>
+			<word is_in_dictionary="1" ngram_probability="0.48152" percentage_of_trasnlit_rules="0.00000">visi</word>
+			<word is_in_dictionary="1" ngram_probability="0.45306" percentage_of_trasnlit_rules="0.00000">tad</word>
+			<word is_in_dictionary="1" ngram_probability="0.48152" percentage_of_trasnlit_rules="0.00000">visi</word>
+			<word is_in_dictionary="1" ngram_probability="0.49316" percentage_of_trasnlit_rules="0.00000">ja</word>
+			<word is_in_dictionary="1" ngram_probability="0.48636" percentage_of_trasnlit_rules="0.00000">neviens</word>
+			<word is_in_dictionary="1" ngram_probability="0.45306" percentage_of_trasnlit_rules="0.00000">tad</word>
+			<word is_in_dictionary="1" ngram_probability="0.48636" percentage_of_trasnlit_rules="0.00000">neviens</word>
+		</words>
+	</comment>
+	<comment words="5" words_in_dictionary="1.00000" ngram_probability="0.48967" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.74571">
+		<original>ko tu tur tagad vavulo!</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.44923" percentage_of_trasnlit_rules="0.00000">ko</word>
+			<word is_in_dictionary="1" ngram_probability="0.47147" percentage_of_trasnlit_rules="0.00000">tu</word>
+			<word is_in_dictionary="1" ngram_probability="0.46155" percentage_of_trasnlit_rules="0.00000">tur</word>
+			<word is_in_dictionary="1" ngram_probability="0.46056" percentage_of_trasnlit_rules="0.00000">tagad</word>
+			<word is_in_dictionary="1" ngram_probability="0.60554" percentage_of_trasnlit_rules="0.00000">vavulo</word>
+		</words>
+	</comment>
+	<comment words="5" words_in_dictionary="1.00000" ngram_probability="0.45305" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.72522">
+		<original>Ko tu tur iesaki vsp? :D</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.44923" percentage_of_trasnlit_rules="0.00000">Ko</word>
+			<word is_in_dictionary="1" ngram_probability="0.47147" percentage_of_trasnlit_rules="0.00000">tu</word>
+			<word is_in_dictionary="1" ngram_probability="0.46155" percentage_of_trasnlit_rules="0.00000">tur</word>
+			<word is_in_dictionary="1" ngram_probability="0.50478" percentage_of_trasnlit_rules="0.00000">iesaki</word>
+			<word is_in_dictionary="1" ngram_probability="0.37823" percentage_of_trasnlit_rules="0.00000">vsp</word>
+		</words>
+	</comment>
+	<comment words="3" words_in_dictionary="0.66667" ngram_probability="0.52530" percentage_of_trasnlit_rules="0.21429" cumulative_probability="0.74461">
+		<original>nju ja zakeniit :*</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.51383" percentage_of_trasnlit_rules="0.50000">nju</word>
+			<word is_in_dictionary="1" ngram_probability="0.49316" percentage_of_trasnlit_rules="0.00000">ja</word>
+			<word is_in_dictionary="0" ngram_probability="0.56891" percentage_of_trasnlit_rules="0.14286">zakeniit</word>
+		</words>
+	</comment>
+	<comment words="10" words_in_dictionary="1.00000" ngram_probability="0.52841" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.76738">
+		<original>spelejat so speli jo vina ir loti interesanta ludzu spelejat</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.61014" percentage_of_trasnlit_rules="0.00000">spelejat</word>
+			<word is_in_dictionary="1" ngram_probability="0.52205" percentage_of_trasnlit_rules="0.00000">so</word>
+			<word is_in_dictionary="1" ngram_probability="0.54821" percentage_of_trasnlit_rules="0.00000">speli</word>
+			<word is_in_dictionary="1" ngram_probability="0.44690" percentage_of_trasnlit_rules="0.00000">jo</word>
+			<word is_in_dictionary="1" ngram_probability="0.53744" percentage_of_trasnlit_rules="0.00000">vina</word>
+			<word is_in_dictionary="1" ngram_probability="0.42158" percentage_of_trasnlit_rules="0.00000">ir</word>
+			<word is_in_dictionary="1" ngram_probability="0.53827" percentage_of_trasnlit_rules="0.00000">loti</word>
+			<word is_in_dictionary="1" ngram_probability="0.49079" percentage_of_trasnlit_rules="0.00000">interesanta</word>
+			<word is_in_dictionary="1" ngram_probability="0.55855" percentage_of_trasnlit_rules="0.00000">ludzu</word>
+			<word is_in_dictionary="1" ngram_probability="0.61014" percentage_of_trasnlit_rules="0.00000">spelejat</word>
+		</words>
+	</comment>
+	<comment words="7" words_in_dictionary="1.00000" ngram_probability="0.47210" percentage_of_trasnlit_rules="0.05714" cumulative_probability="0.81665">
+		<original>kko tur dzen zosis... Tas un shitas:D</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.43615" percentage_of_trasnlit_rules="0.00000">kko</word>
+			<word is_in_dictionary="1" ngram_probability="0.46155" percentage_of_trasnlit_rules="0.00000">tur</word>
+			<word is_in_dictionary="1" ngram_probability="0.50952" percentage_of_trasnlit_rules="0.00000">dzen</word>
+			<word is_in_dictionary="1" ngram_probability="0.44825" percentage_of_trasnlit_rules="0.00000">zosis</word>
+			<word is_in_dictionary="1" ngram_probability="0.50064" percentage_of_trasnlit_rules="0.00000">Tas</word>
+			<word is_in_dictionary="1" ngram_probability="0.40150" percentage_of_trasnlit_rules="0.00000">un</word>
+			<word is_in_dictionary="1" ngram_probability="0.54713" percentage_of_trasnlit_rules="0.40000">shitas</word>
+		</words>
+	</comment>
+	<comment words="4" words_in_dictionary="1.00000" ngram_probability="0.54181" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.77488">
+		<original>Sodien tevs rita dels</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.54139" percentage_of_trasnlit_rules="0.00000">Sodien</word>
+			<word is_in_dictionary="1" ngram_probability="0.56561" percentage_of_trasnlit_rules="0.00000">tevs</word>
+			<word is_in_dictionary="1" ngram_probability="0.52200" percentage_of_trasnlit_rules="0.00000">rita</word>
+			<word is_in_dictionary="1" ngram_probability="0.53822" percentage_of_trasnlit_rules="0.00000">dels</word>
+		</words>
+	</comment>
+	<comment words="3" words_in_dictionary="1.00000" ngram_probability="0.48591" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.74360">
+		<original>kkas jauns ieceko</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.46205" percentage_of_trasnlit_rules="0.00000">kkas</word>
+			<word is_in_dictionary="1" ngram_probability="0.49565" percentage_of_trasnlit_rules="0.00000">jauns</word>
+			<word is_in_dictionary="1" ngram_probability="0.50002" percentage_of_trasnlit_rules="0.00000">ieceko</word>
+		</words>
+	</comment>
+	<comment words="12" words_in_dictionary="0.91667" ngram_probability="0.49010" percentage_of_trasnlit_rules="0.08750" cumulative_probability="0.78864">
+		<original>gribu dzert livu alu majas un est galju,bet es mancestera.sheeet!!!</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.50325" percentage_of_trasnlit_rules="0.00000">gribu</word>
+			<word is_in_dictionary="1" ngram_probability="0.48766" percentage_of_trasnlit_rules="0.00000">dzert</word>
+			<word is_in_dictionary="1" ngram_probability="0.53939" percentage_of_trasnlit_rules="0.00000">livu</word>
+			<word is_in_dictionary="1" ngram_probability="0.48502" percentage_of_trasnlit_rules="0.00000">alu</word>
+			<word is_in_dictionary="1" ngram_probability="0.55394" percentage_of_trasnlit_rules="0.00000">majas</word>
+			<word is_in_dictionary="1" ngram_probability="0.40150" percentage_of_trasnlit_rules="0.00000">un</word>
+			<word is_in_dictionary="1" ngram_probability="0.51780" percentage_of_trasnlit_rules="0.00000">est</word>
+			<word is_in_dictionary="1" ngram_probability="0.54301" percentage_of_trasnlit_rules="0.25000">galju</word>
+			<word is_in_dictionary="1" ngram_probability="0.44744" percentage_of_trasnlit_rules="0.00000">bet</word>
+			<word is_in_dictionary="1" ngram_probability="0.45323" percentage_of_trasnlit_rules="0.00000">es</word>
+			<word is_in_dictionary="1" ngram_probability="0.48185" percentage_of_trasnlit_rules="0.00000">mancestera</word>
+			<word is_in_dictionary="0" ngram_probability="0.46711" percentage_of_trasnlit_rules="0.80000">sheeet</word>
+		</words>
+	</comment>
+	<comment words="6" words_in_dictionary="0.83333" ngram_probability="0.49385" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.58609">
+		<original>atdod solidola sprici tas kas pannema!</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.50616" percentage_of_trasnlit_rules="0.00000">atdod</word>
+			<word is_in_dictionary="1" ngram_probability="0.48544" percentage_of_trasnlit_rules="0.00000">solidola</word>
+			<word is_in_dictionary="1" ngram_probability="0.48811" percentage_of_trasnlit_rules="0.00000">sprici</word>
+			<word is_in_dictionary="1" ngram_probability="0.50064" percentage_of_trasnlit_rules="0.00000">tas</word>
+			<word is_in_dictionary="1" ngram_probability="0.47265" percentage_of_trasnlit_rules="0.00000">kas</word>
+			<word is_in_dictionary="0" ngram_probability="0.51009" percentage_of_trasnlit_rules="0.00000">pannema</word>
+		</words>
+	</comment>
+	<comment words="9" words_in_dictionary="1.00000" ngram_probability="0.48638" percentage_of_trasnlit_rules="0.07407" cumulative_probability="0.84857">
+		<original>Te ir ΄runaa΄ sadalja, nevis kkada chata istaba.;dd</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.46813" percentage_of_trasnlit_rules="0.00000">Te</word>
+			<word is_in_dictionary="1" ngram_probability="0.42158" percentage_of_trasnlit_rules="0.00000">ir</word>
+			<word is_in_dictionary="1" ngram_probability="0.59948" percentage_of_trasnlit_rules="0.25000">runaa</word>
+			<word is_in_dictionary="1" ngram_probability="0.55579" percentage_of_trasnlit_rules="0.16667">sadalja</word>
+			<word is_in_dictionary="1" ngram_probability="0.46513" percentage_of_trasnlit_rules="0.00000">nevis</word>
+			<word is_in_dictionary="1" ngram_probability="0.49602" percentage_of_trasnlit_rules="0.00000">kkada</word>
+			<word is_in_dictionary="1" ngram_probability="0.43676" percentage_of_trasnlit_rules="0.25000">chata</word>
+			<word is_in_dictionary="1" ngram_probability="0.51790" percentage_of_trasnlit_rules="0.00000">istaba</word>
+			<word is_in_dictionary="1" ngram_probability="0.41666" percentage_of_trasnlit_rules="0.00000">dd</word>
+		</words>
+	</comment>
+	<comment words="10" words_in_dictionary="1.00000" ngram_probability="0.49131" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.74662">
+		<original>es draudzejos ar viss labakam draudzenem no klases ar endiju</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.45323" percentage_of_trasnlit_rules="0.00000">es</word>
+			<word is_in_dictionary="1" ngram_probability="0.55805" percentage_of_trasnlit_rules="0.00000">draudzejos</word>
+			<word is_in_dictionary="1" ngram_probability="0.44611" percentage_of_trasnlit_rules="0.00000">ar</word>
+			<word is_in_dictionary="1" ngram_probability="0.47373" percentage_of_trasnlit_rules="0.00000">viss</word>
+			<word is_in_dictionary="1" ngram_probability="0.56489" percentage_of_trasnlit_rules="0.00000">labakam</word>
+			<word is_in_dictionary="1" ngram_probability="0.56713" percentage_of_trasnlit_rules="0.00000">draudzenem</word>
+			<word is_in_dictionary="1" ngram_probability="0.45108" percentage_of_trasnlit_rules="0.00000">no</word>
+			<word is_in_dictionary="1" ngram_probability="0.48657" percentage_of_trasnlit_rules="0.00000">klases</word>
+			<word is_in_dictionary="1" ngram_probability="0.44611" percentage_of_trasnlit_rules="0.00000">ar</word>
+			<word is_in_dictionary="1" ngram_probability="0.46618" percentage_of_trasnlit_rules="0.00000">endiju</word>
+		</words>
+	</comment>
+	<comment words="4" words_in_dictionary="1.00000" ngram_probability="0.51175" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.75806">
+		<original>ludzu atsuti man vajag</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.55855" percentage_of_trasnlit_rules="0.00000">ludzu</word>
+			<word is_in_dictionary="1" ngram_probability="0.58192" percentage_of_trasnlit_rules="0.00000">atsuti</word>
+			<word is_in_dictionary="1" ngram_probability="0.43039" percentage_of_trasnlit_rules="0.00000">man</word>
+			<word is_in_dictionary="1" ngram_probability="0.47615" percentage_of_trasnlit_rules="0.00000">vajag</word>
+		</words>
+	</comment>
+	<comment words="4" words_in_dictionary="1.00000" ngram_probability="0.51606" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.76047">
+		<original>es sodien esmu laimiga</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.45323" percentage_of_trasnlit_rules="0.00000">es</word>
+			<word is_in_dictionary="1" ngram_probability="0.54139" percentage_of_trasnlit_rules="0.00000">sodien</word>
+			<word is_in_dictionary="1" ngram_probability="0.49333" percentage_of_trasnlit_rules="0.00000">esmu</word>
+			<word is_in_dictionary="1" ngram_probability="0.57628" percentage_of_trasnlit_rules="0.00000">laimiga</word>
+		</words>
+	</comment>
+	<comment words="15" words_in_dictionary="0.93333" ngram_probability="0.53588" percentage_of_trasnlit_rules="0.08294" cumulative_probability="0.82400">
+		<original>iepriecinoshs parsteigums - autobusa shoferis gala pietura pa mikji novee visiem jauku dienu. Siikums, bet patiikami ;)</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.62443" percentage_of_trasnlit_rules="0.16667">iepriecinoshs</word>
+			<word is_in_dictionary="1" ngram_probability="0.57080" percentage_of_trasnlit_rules="0.00000">parsteigums</word>
+			<word is_in_dictionary="1" ngram_probability="0.50566" percentage_of_trasnlit_rules="0.00000">autobusa</word>
+			<word is_in_dictionary="1" ngram_probability="0.55701" percentage_of_trasnlit_rules="0.28571">shoferis</word>
+			<word is_in_dictionary="1" ngram_probability="0.50686" percentage_of_trasnlit_rules="0.00000">gala</word>
+			<word is_in_dictionary="1" ngram_probability="0.51883" percentage_of_trasnlit_rules="0.00000">pietura</word>
+			<word is_in_dictionary="1" ngram_probability="0.46723" percentage_of_trasnlit_rules="0.00000">pa</word>
+			<word is_in_dictionary="1" ngram_probability="0.61606" percentage_of_trasnlit_rules="0.25000">mikji</word>
+			<word is_in_dictionary="0" ngram_probability="0.54718" percentage_of_trasnlit_rules="0.25000">novee</word>
+			<word is_in_dictionary="1" ngram_probability="0.47637" percentage_of_trasnlit_rules="0.00000">visiem</word>
+			<word is_in_dictionary="1" ngram_probability="0.49230" percentage_of_trasnlit_rules="0.00000">jauku</word>
+			<word is_in_dictionary="1" ngram_probability="0.49433" percentage_of_trasnlit_rules="0.00000">dienu</word>
+			<word is_in_dictionary="1" ngram_probability="0.56824" percentage_of_trasnlit_rules="0.16667">Siikums</word>
+			<word is_in_dictionary="1" ngram_probability="0.44744" percentage_of_trasnlit_rules="0.00000">bet</word>
+			<word is_in_dictionary="1" ngram_probability="0.64548" percentage_of_trasnlit_rules="0.12500">patiikami</word>
+		</words>
+	</comment>
+	<comment words="4" words_in_dictionary="1.00000" ngram_probability="0.56948" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.79036">
+		<original>nezinu pamegini vairak runat:)</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.53240" percentage_of_trasnlit_rules="0.00000">nezinu</word>
+			<word is_in_dictionary="1" ngram_probability="0.61024" percentage_of_trasnlit_rules="0.00000">pamegini</word>
+			<word is_in_dictionary="1" ngram_probability="0.55344" percentage_of_trasnlit_rules="0.00000">vairak</word>
+			<word is_in_dictionary="1" ngram_probability="0.58182" percentage_of_trasnlit_rules="0.00000">runat</word>
+		</words>
+	</comment>
+	<comment words="15" words_in_dictionary="1.00000" ngram_probability="0.48780" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.74466">
+		<original>Kad juti ,ka viss ir beidzies,tu apjucis doma varbut nekas pa istam nebija sacies.....</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.43792" percentage_of_trasnlit_rules="0.00000">Kad</word>
+			<word is_in_dictionary="1" ngram_probability="0.52154" percentage_of_trasnlit_rules="0.00000">juti</word>
+			<word is_in_dictionary="1" ngram_probability="0.50349" percentage_of_trasnlit_rules="0.00000">ka</word>
+			<word is_in_dictionary="1" ngram_probability="0.47373" percentage_of_trasnlit_rules="0.00000">viss</word>
+			<word is_in_dictionary="1" ngram_probability="0.42158" percentage_of_trasnlit_rules="0.00000">ir</word>
+			<word is_in_dictionary="1" ngram_probability="0.48112" percentage_of_trasnlit_rules="0.00000">beidzies</word>
+			<word is_in_dictionary="1" ngram_probability="0.47147" percentage_of_trasnlit_rules="0.00000">tu</word>
+			<word is_in_dictionary="1" ngram_probability="0.48031" percentage_of_trasnlit_rules="0.00000">apjucis</word>
+			<word is_in_dictionary="1" ngram_probability="0.52713" percentage_of_trasnlit_rules="0.00000">doma</word>
+			<word is_in_dictionary="1" ngram_probability="0.60109" percentage_of_trasnlit_rules="0.00000">varbut</word>
+			<word is_in_dictionary="1" ngram_probability="0.46072" percentage_of_trasnlit_rules="0.00000">nekas</word>
+			<word is_in_dictionary="1" ngram_probability="0.46723" percentage_of_trasnlit_rules="0.00000">pa</word>
+			<word is_in_dictionary="1" ngram_probability="0.51251" percentage_of_trasnlit_rules="0.00000">istam</word>
+			<word is_in_dictionary="1" ngram_probability="0.41876" percentage_of_trasnlit_rules="0.00000">nebija</word>
+			<word is_in_dictionary="1" ngram_probability="0.53842" percentage_of_trasnlit_rules="0.00000">sacies</word>
+		</words>
+	</comment>
+	<comment words="4" words_in_dictionary="1.00000" ngram_probability="0.35541" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.67059">
+		<original>Protams kad 4tajam paveiksies</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.48830" percentage_of_trasnlit_rules="0.00000">Protams</word>
+			<word is_in_dictionary="1" ngram_probability="0.43792" percentage_of_trasnlit_rules="0.00000">kad</word>
+			<word is_in_dictionary="1" ngram_probability="0.00000" percentage_of_trasnlit_rules="0.00000">4tajam</word>
+			<word is_in_dictionary="1" ngram_probability="0.49540" percentage_of_trasnlit_rules="0.00000">paveiksies</word>
+		</words>
+	</comment>
+	<comment words="5" words_in_dictionary="1.00000" ngram_probability="0.48517" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.74319">
+		<original>Ja kas otrs ir aiznemts</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.49316" percentage_of_trasnlit_rules="0.00000">Ja</word>
+			<word is_in_dictionary="1" ngram_probability="0.47265" percentage_of_trasnlit_rules="0.00000">kas</word>
+			<word is_in_dictionary="1" ngram_probability="0.46823" percentage_of_trasnlit_rules="0.00000">otrs</word>
+			<word is_in_dictionary="1" ngram_probability="0.42158" percentage_of_trasnlit_rules="0.00000">ir</word>
+			<word is_in_dictionary="1" ngram_probability="0.57022" percentage_of_trasnlit_rules="0.00000">aiznemts</word>
+		</words>
+	</comment>
+	<comment words="12" words_in_dictionary="1.00000" ngram_probability="0.50146" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.75230">
+		<original>nu tads sviests! kadam limenim jabut lai kaut ko tik debilu izdomatu?</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.45592" percentage_of_trasnlit_rules="0.00000">nu</word>
+			<word is_in_dictionary="1" ngram_probability="0.54740" percentage_of_trasnlit_rules="0.00000">tads</word>
+			<word is_in_dictionary="1" ngram_probability="0.47804" percentage_of_trasnlit_rules="0.00000">sviests</word>
+			<word is_in_dictionary="1" ngram_probability="0.53346" percentage_of_trasnlit_rules="0.00000">kadam</word>
+			<word is_in_dictionary="1" ngram_probability="0.54611" percentage_of_trasnlit_rules="0.00000">limenim</word>
+			<word is_in_dictionary="1" ngram_probability="0.56094" percentage_of_trasnlit_rules="0.00000">jabut</word>
+			<word is_in_dictionary="1" ngram_probability="0.44099" percentage_of_trasnlit_rules="0.00000">lai</word>
+			<word is_in_dictionary="1" ngram_probability="0.46868" percentage_of_trasnlit_rules="0.00000">kaut</word>
+			<word is_in_dictionary="1" ngram_probability="0.44923" percentage_of_trasnlit_rules="0.00000">ko</word>
+			<word is_in_dictionary="1" ngram_probability="0.49225" percentage_of_trasnlit_rules="0.00000">tik</word>
+			<word is_in_dictionary="1" ngram_probability="0.50367" percentage_of_trasnlit_rules="0.00000">debilu</word>
+			<word is_in_dictionary="1" ngram_probability="0.54080" percentage_of_trasnlit_rules="0.00000">izdomatu</word>
+		</words>
+	</comment>
+	<comment words="16" words_in_dictionary="1.00000" ngram_probability="0.47969" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.74012">
+		<original>ka sai jaunaja draugiem.lv versija tu pats vsp vari redzet cik tev kopuma ir draugi?:D:D:D</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.50349" percentage_of_trasnlit_rules="0.00000">ka</word>
+			<word is_in_dictionary="1" ngram_probability="0.52315" percentage_of_trasnlit_rules="0.00000">sai</word>
+			<word is_in_dictionary="1" ngram_probability="0.51717" percentage_of_trasnlit_rules="0.00000">jaunaja</word>
+			<word is_in_dictionary="1" ngram_probability="0.49451" percentage_of_trasnlit_rules="0.00000">draugiem</word>
+			<word is_in_dictionary="1" ngram_probability="0.40883" percentage_of_trasnlit_rules="0.00000">lv</word>
+			<word is_in_dictionary="1" ngram_probability="0.49270" percentage_of_trasnlit_rules="0.00000">versija</word>
+			<word is_in_dictionary="1" ngram_probability="0.47147" percentage_of_trasnlit_rules="0.00000">tu</word>
+			<word is_in_dictionary="1" ngram_probability="0.48714" percentage_of_trasnlit_rules="0.00000">pats</word>
+			<word is_in_dictionary="1" ngram_probability="0.37823" percentage_of_trasnlit_rules="0.00000">vsp</word>
+			<word is_in_dictionary="1" ngram_probability="0.49693" percentage_of_trasnlit_rules="0.00000">vari</word>
+			<word is_in_dictionary="1" ngram_probability="0.55207" percentage_of_trasnlit_rules="0.00000">redzet</word>
+			<word is_in_dictionary="1" ngram_probability="0.45541" percentage_of_trasnlit_rules="0.00000">cik</word>
+			<word is_in_dictionary="1" ngram_probability="0.46089" percentage_of_trasnlit_rules="0.00000">tev</word>
+			<word is_in_dictionary="1" ngram_probability="0.51012" percentage_of_trasnlit_rules="0.00000">kopuma</word>
+			<word is_in_dictionary="1" ngram_probability="0.42158" percentage_of_trasnlit_rules="0.00000">ir</word>
+			<word is_in_dictionary="1" ngram_probability="0.50145" percentage_of_trasnlit_rules="0.00000">draugi</word>
+		</words>
+	</comment>
+	<comment words="6" words_in_dictionary="1.00000" ngram_probability="0.47743" percentage_of_trasnlit_rules="0.03333" cumulative_probability="0.78597">
+		<original>kur var samainit adinju dr.lv?</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.44719" percentage_of_trasnlit_rules="0.00000">kur</word>
+			<word is_in_dictionary="1" ngram_probability="0.44753" percentage_of_trasnlit_rules="0.00000">var</word>
+			<word is_in_dictionary="1" ngram_probability="0.55631" percentage_of_trasnlit_rules="0.00000">samainit</word>
+			<word is_in_dictionary="1" ngram_probability="0.56925" percentage_of_trasnlit_rules="0.20000">adinju</word>
+			<word is_in_dictionary="1" ngram_probability="0.43545" percentage_of_trasnlit_rules="0.00000">dr</word>
+			<word is_in_dictionary="1" ngram_probability="0.40883" percentage_of_trasnlit_rules="0.00000">lv</word>
+		</words>
+	</comment>
+	<comment words="15" words_in_dictionary="1.00000" ngram_probability="0.50723" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.75553">
+		<original>Divas piedzerusas blusas iznak no kroga,viena prasa otrai:gaidisim suni vai iesim ar kajam?</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.49209" percentage_of_trasnlit_rules="0.00000">Divas</word>
+			<word is_in_dictionary="1" ngram_probability="0.55587" percentage_of_trasnlit_rules="0.00000">piedzerusas</word>
+			<word is_in_dictionary="1" ngram_probability="0.50244" percentage_of_trasnlit_rules="0.00000">blusas</word>
+			<word is_in_dictionary="1" ngram_probability="0.55717" percentage_of_trasnlit_rules="0.00000">iznak</word>
+			<word is_in_dictionary="1" ngram_probability="0.45108" percentage_of_trasnlit_rules="0.00000">no</word>
+			<word is_in_dictionary="1" ngram_probability="0.54371" percentage_of_trasnlit_rules="0.00000">kroga</word>
+			<word is_in_dictionary="1" ngram_probability="0.50481" percentage_of_trasnlit_rules="0.00000">viena</word>
+			<word is_in_dictionary="1" ngram_probability="0.49324" percentage_of_trasnlit_rules="0.00000">prasa</word>
+			<word is_in_dictionary="1" ngram_probability="0.47455" percentage_of_trasnlit_rules="0.00000">otrai</word>
+			<word is_in_dictionary="1" ngram_probability="0.59064" percentage_of_trasnlit_rules="0.00000">gaidisim</word>
+			<word is_in_dictionary="1" ngram_probability="0.51823" percentage_of_trasnlit_rules="0.00000">suni</word>
+			<word is_in_dictionary="1" ngram_probability="0.44424" percentage_of_trasnlit_rules="0.00000">vai</word>
+			<word is_in_dictionary="1" ngram_probability="0.51140" percentage_of_trasnlit_rules="0.00000">iesim</word>
+			<word is_in_dictionary="1" ngram_probability="0.44611" percentage_of_trasnlit_rules="0.00000">ar</word>
+			<word is_in_dictionary="1" ngram_probability="0.52283" percentage_of_trasnlit_rules="0.00000">kajam</word>
+		</words>
+	</comment>
+	<comment words="16" words_in_dictionary="0.93750" ngram_probability="0.48815" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.68412">
+		<original>neviens jau nav teicis ka smadzenes jamale ciet,tas kas to izdomaja tam iet ciet(puke)</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.48636" percentage_of_trasnlit_rules="0.00000">neviens</word>
+			<word is_in_dictionary="1" ngram_probability="0.43092" percentage_of_trasnlit_rules="0.00000">jau</word>
+			<word is_in_dictionary="1" ngram_probability="0.40114" percentage_of_trasnlit_rules="0.00000">nav</word>
+			<word is_in_dictionary="1" ngram_probability="0.49344" percentage_of_trasnlit_rules="0.00000">teicis</word>
+			<word is_in_dictionary="1" ngram_probability="0.50349" percentage_of_trasnlit_rules="0.00000">ka</word>
+			<word is_in_dictionary="1" ngram_probability="0.48779" percentage_of_trasnlit_rules="0.00000">smadzenes</word>
+			<word is_in_dictionary="0" ngram_probability="0.51529" percentage_of_trasnlit_rules="0.00000">jamale</word>
+			<word is_in_dictionary="1" ngram_probability="0.50629" percentage_of_trasnlit_rules="0.00000">ciet</word>
+			<word is_in_dictionary="1" ngram_probability="0.50064" percentage_of_trasnlit_rules="0.00000">tas</word>
+			<word is_in_dictionary="1" ngram_probability="0.47265" percentage_of_trasnlit_rules="0.00000">kas</word>
+			<word is_in_dictionary="1" ngram_probability="0.44419" percentage_of_trasnlit_rules="0.00000">to</word>
+			<word is_in_dictionary="1" ngram_probability="0.56803" percentage_of_trasnlit_rules="0.00000">izdomaja</word>
+			<word is_in_dictionary="1" ngram_probability="0.49591" percentage_of_trasnlit_rules="0.00000">tam</word>
+			<word is_in_dictionary="1" ngram_probability="0.46966" percentage_of_trasnlit_rules="0.00000">iet</word>
+			<word is_in_dictionary="1" ngram_probability="0.50629" percentage_of_trasnlit_rules="0.00000">ciet</word>
+			<word is_in_dictionary="1" ngram_probability="0.52838" percentage_of_trasnlit_rules="0.00000">puke</word>
+		</words>
+	</comment>
+	<comment words="4" words_in_dictionary="1.00000" ngram_probability="0.51418" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.75942">
+		<original>sezu dr.lv garlaicigi!</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.58186" percentage_of_trasnlit_rules="0.00000">sezu</word>
+			<word is_in_dictionary="1" ngram_probability="0.43545" percentage_of_trasnlit_rules="0.00000">dr</word>
+			<word is_in_dictionary="1" ngram_probability="0.40883" percentage_of_trasnlit_rules="0.00000">lv</word>
+			<word is_in_dictionary="1" ngram_probability="0.63057" percentage_of_trasnlit_rules="0.00000">garlaicigi</word>
+		</words>
+	</comment>
+	<comment words="20" words_in_dictionary="1.00000" ngram_probability="0.53196" percentage_of_trasnlit_rules="0.08429" cumulative_probability="0.88850">
+		<original>Hei visiem! Sodien forsa sauliite spiid, un juutos fantastiski, sodien laizu uz karalisko anekdosu turniiru, varbuut kaads arii veelas iet?</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.43381" percentage_of_trasnlit_rules="0.00000">Hei</word>
+			<word is_in_dictionary="1" ngram_probability="0.47637" percentage_of_trasnlit_rules="0.00000">visiem</word>
+			<word is_in_dictionary="1" ngram_probability="0.54139" percentage_of_trasnlit_rules="0.00000">Sodien</word>
+			<word is_in_dictionary="1" ngram_probability="0.52955" percentage_of_trasnlit_rules="0.00000">forsa</word>
+			<word is_in_dictionary="1" ngram_probability="0.53881" percentage_of_trasnlit_rules="0.14286">sauliite</word>
+			<word is_in_dictionary="1" ngram_probability="0.55259" percentage_of_trasnlit_rules="0.25000">spiid</word>
+			<word is_in_dictionary="1" ngram_probability="0.40150" percentage_of_trasnlit_rules="0.00000">un</word>
+			<word is_in_dictionary="1" ngram_probability="0.56099" percentage_of_trasnlit_rules="0.20000">juutos</word>
+			<word is_in_dictionary="1" ngram_probability="0.54616" percentage_of_trasnlit_rules="0.00000">fantastiski</word>
+			<word is_in_dictionary="1" ngram_probability="0.54139" percentage_of_trasnlit_rules="0.00000">sodien</word>
+			<word is_in_dictionary="1" ngram_probability="0.57102" percentage_of_trasnlit_rules="0.00000">laizu</word>
+			<word is_in_dictionary="1" ngram_probability="0.44718" percentage_of_trasnlit_rules="0.00000">uz</word>
+			<word is_in_dictionary="1" ngram_probability="0.47076" percentage_of_trasnlit_rules="0.00000">karalisko</word>
+			<word is_in_dictionary="1" ngram_probability="0.57116" percentage_of_trasnlit_rules="0.00000">anekdosu</word>
+			<word is_in_dictionary="1" ngram_probability="0.62290" percentage_of_trasnlit_rules="0.14286">turniiru</word>
+			<word is_in_dictionary="1" ngram_probability="0.62989" percentage_of_trasnlit_rules="0.16667">varbuut</word>
+			<word is_in_dictionary="1" ngram_probability="0.60838" percentage_of_trasnlit_rules="0.25000">kaads</word>
+			<word is_in_dictionary="1" ngram_probability="0.57446" percentage_of_trasnlit_rules="0.33333">arii</word>
+			<word is_in_dictionary="1" ngram_probability="0.55123" percentage_of_trasnlit_rules="0.20000">veelas</word>
+			<word is_in_dictionary="1" ngram_probability="0.46966" percentage_of_trasnlit_rules="0.00000">iet</word>
+		</words>
+	</comment>
+	<comment words="3" words_in_dictionary="1.00000" ngram_probability="0.51420" percentage_of_trasnlit_rules="0.13333" cumulative_probability="0.94789">
+		<original>huj tev likshu</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.49240" percentage_of_trasnlit_rules="0.00000">huj</word>
+			<word is_in_dictionary="1" ngram_probability="0.46089" percentage_of_trasnlit_rules="0.00000">tev</word>
+			<word is_in_dictionary="1" ngram_probability="0.58931" percentage_of_trasnlit_rules="0.40000">likshu</word>
+		</words>
+	</comment>
+	<comment words="3" words_in_dictionary="0.66667" ngram_probability="0.52039" percentage_of_trasnlit_rules="0.11111" cumulative_probability="0.59603">
+		<original>Pakaart to biiberi</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.56020" percentage_of_trasnlit_rules="0.16667">Pakaart</word>
+			<word is_in_dictionary="1" ngram_probability="0.44419" percentage_of_trasnlit_rules="0.00000">to</word>
+			<word is_in_dictionary="0" ngram_probability="0.55677" percentage_of_trasnlit_rules="0.16667">biiberi</word>
+		</words>
+	</comment>
+	<comment words="2" words_in_dictionary="1.00000" ngram_probability="0.53624" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.77176">
+		<original>ludzu parakstieties</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.55855" percentage_of_trasnlit_rules="0.00000">ludzu</word>
+			<word is_in_dictionary="1" ngram_probability="0.51392" percentage_of_trasnlit_rules="0.00000">parakstieties</word>
+		</words>
+	</comment>
+	<comment words="2" words_in_dictionary="1.00000" ngram_probability="0.55633" percentage_of_trasnlit_rules="0.08333" cumulative_probability="0.90079">
+		<original>esiet aktiivi :))</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.47816" percentage_of_trasnlit_rules="0.00000">esiet</word>
+			<word is_in_dictionary="1" ngram_probability="0.63451" percentage_of_trasnlit_rules="0.16667">aktiivi</word>
+		</words>
+	</comment>
+	<comment words="24" words_in_dictionary="0.95833" ngram_probability="0.42609" percentage_of_trasnlit_rules="0.04688" cumulative_probability="0.73590">
+		<original>nu te ir cita funkcija pamata, bet piekriitu butu laba opcija. starpcitu te var atrast ar gps http://www.nordicsports.lv/45-sporta-pulksteni</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.45592" percentage_of_trasnlit_rules="0.00000">nu</word>
+			<word is_in_dictionary="1" ngram_probability="0.46813" percentage_of_trasnlit_rules="0.00000">te</word>
+			<word is_in_dictionary="1" ngram_probability="0.42158" percentage_of_trasnlit_rules="0.00000">ir</word>
+			<word is_in_dictionary="1" ngram_probability="0.50005" percentage_of_trasnlit_rules="0.00000">cita</word>
+			<word is_in_dictionary="1" ngram_probability="0.49514" percentage_of_trasnlit_rules="0.00000">funkcija</word>
+			<word is_in_dictionary="1" ngram_probability="0.49919" percentage_of_trasnlit_rules="0.00000">pamata</word>
+			<word is_in_dictionary="1" ngram_probability="0.44744" percentage_of_trasnlit_rules="0.00000">bet</word>
+			<word is_in_dictionary="1" ngram_probability="0.63445" percentage_of_trasnlit_rules="0.12500">piekriitu</word>
+			<word is_in_dictionary="1" ngram_probability="0.54185" percentage_of_trasnlit_rules="0.00000">butu</word>
+			<word is_in_dictionary="1" ngram_probability="0.51179" percentage_of_trasnlit_rules="0.00000">laba</word>
+			<word is_in_dictionary="1" ngram_probability="0.50186" percentage_of_trasnlit_rules="0.00000">opcija</word>
+			<word is_in_dictionary="1" ngram_probability="0.46788" percentage_of_trasnlit_rules="0.00000">starpcitu</word>
+			<word is_in_dictionary="1" ngram_probability="0.46813" percentage_of_trasnlit_rules="0.00000">te</word>
+			<word is_in_dictionary="1" ngram_probability="0.44753" percentage_of_trasnlit_rules="0.00000">var</word>
+			<word is_in_dictionary="1" ngram_probability="0.48964" percentage_of_trasnlit_rules="0.00000">atrast</word>
+			<word is_in_dictionary="1" ngram_probability="0.44611" percentage_of_trasnlit_rules="0.00000">ar</word>
+			<word is_in_dictionary="1" ngram_probability="0.41803" percentage_of_trasnlit_rules="0.00000">gps</word>
+			<word is_in_dictionary="1" ngram_probability="0.24596" percentage_of_trasnlit_rules="0.00000">http</word>
+			<word is_in_dictionary="1" ngram_probability="0.00000" percentage_of_trasnlit_rules="1.00000">www</word>
+			<word is_in_dictionary="0" ngram_probability="0.35914" percentage_of_trasnlit_rules="0.00000">nordicsports</word>
+			<word is_in_dictionary="1" ngram_probability="0.40883" percentage_of_trasnlit_rules="0.00000">lv</word>
+			<word is_in_dictionary="1" ngram_probability="0.00000" percentage_of_trasnlit_rules="0.00000">45</word>
+			<word is_in_dictionary="1" ngram_probability="0.49238" percentage_of_trasnlit_rules="0.00000">sporta</word>
+			<word is_in_dictionary="1" ngram_probability="0.50515" percentage_of_trasnlit_rules="0.00000">pulksteni</word>
+		</words>
+	</comment>
+	<comment words="3" words_in_dictionary="1.00000" ngram_probability="0.34766" percentage_of_trasnlit_rules="0.11111" cumulative_probability="0.82330">
+		<original>tiekamies peec 20h ;)</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.47582" percentage_of_trasnlit_rules="0.00000">tiekamies</word>
+			<word is_in_dictionary="1" ngram_probability="0.56714" percentage_of_trasnlit_rules="0.33333">peec</word>
+			<word is_in_dictionary="1" ngram_probability="0.00000" percentage_of_trasnlit_rules="0.00000">20h</word>
+		</words>
+	</comment>
+	<comment words="2" words_in_dictionary="1.00000" ngram_probability="0.46058" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.72943">
+		<original>nu paldies...:D</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.45592" percentage_of_trasnlit_rules="0.00000">nu</word>
+			<word is_in_dictionary="1" ngram_probability="0.46525" percentage_of_trasnlit_rules="0.00000">paldies</word>
+		</words>
+	</comment>
+	<comment words="4" words_in_dictionary="1.00000" ngram_probability="0.46212" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.73029">
+		<original>suns man tada nav ;/ :D</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.48873" percentage_of_trasnlit_rules="0.00000">suns</word>
+			<word is_in_dictionary="1" ngram_probability="0.43039" percentage_of_trasnlit_rules="0.00000">man</word>
+			<word is_in_dictionary="1" ngram_probability="0.52823" percentage_of_trasnlit_rules="0.00000">tada</word>
+			<word is_in_dictionary="1" ngram_probability="0.40114" percentage_of_trasnlit_rules="0.00000">nav</word>
+		</words>
+	</comment>
+	<comment words="2" words_in_dictionary="1.00000" ngram_probability="0.55748" percentage_of_trasnlit_rules="0.25000" cumulative_probability="1.00000">
+		<original>jaa taisniba :D :D :)</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.52631" percentage_of_trasnlit_rules="0.50000">jaa</word>
+			<word is_in_dictionary="1" ngram_probability="0.58864" percentage_of_trasnlit_rules="0.00000">taisniba</word>
+		</words>
+	</comment>
+	<comment words="6" words_in_dictionary="1.00000" ngram_probability="0.50469" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.75411">
+		<original>A kurs zin ka var nomainit adinu? :D:D:D:D</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.52093" percentage_of_trasnlit_rules="0.00000">kurs</word>
+			<word is_in_dictionary="1" ngram_probability="0.47742" percentage_of_trasnlit_rules="0.00000">zin</word>
+			<word is_in_dictionary="1" ngram_probability="0.50349" percentage_of_trasnlit_rules="0.00000">ka</word>
+			<word is_in_dictionary="1" ngram_probability="0.44753" percentage_of_trasnlit_rules="0.00000">var</word>
+			<word is_in_dictionary="1" ngram_probability="0.54676" percentage_of_trasnlit_rules="0.00000">nomainit</word>
+			<word is_in_dictionary="1" ngram_probability="0.53203" percentage_of_trasnlit_rules="0.00000">adinu</word>
+		</words>
+	</comment>
+	<comment words="4" words_in_dictionary="1.00000" ngram_probability="0.46154" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.72997">
+		<original>Annija ir bum bum.</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.51433" percentage_of_trasnlit_rules="0.00000">Annija</word>
+			<word is_in_dictionary="1" ngram_probability="0.42158" percentage_of_trasnlit_rules="0.00000">ir</word>
+			<word is_in_dictionary="1" ngram_probability="0.45513" percentage_of_trasnlit_rules="0.00000">bum</word>
+			<word is_in_dictionary="1" ngram_probability="0.45513" percentage_of_trasnlit_rules="0.00000">bum</word>
+		</words>
+	</comment>
+	<comment words="3" words_in_dictionary="1.00000" ngram_probability="0.51123" percentage_of_trasnlit_rules="0.04762" cumulative_probability="0.82508">
+		<original>Dots deveejam neatdodas...</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.45342" percentage_of_trasnlit_rules="0.00000">Dots</word>
+			<word is_in_dictionary="1" ngram_probability="0.60020" percentage_of_trasnlit_rules="0.14286">deveejam</word>
+			<word is_in_dictionary="1" ngram_probability="0.48007" percentage_of_trasnlit_rules="0.00000">neatdodas</word>
+		</words>
+	</comment>
+	<comment words="6" words_in_dictionary="1.00000" ngram_probability="0.40670" percentage_of_trasnlit_rules="0.18333" cumulative_probability="0.95842">
+		<original>puse no wisiem .ar dazjiem iznjemumiem.;D</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.49798" percentage_of_trasnlit_rules="0.00000">puse</word>
+			<word is_in_dictionary="1" ngram_probability="0.45108" percentage_of_trasnlit_rules="0.00000">no</word>
+			<word is_in_dictionary="1" ngram_probability="0.00000" percentage_of_trasnlit_rules="1.00000">wisiem</word>
+			<word is_in_dictionary="1" ngram_probability="0.44611" percentage_of_trasnlit_rules="0.00000">ar</word>
+			<word is_in_dictionary="1" ngram_probability="0.43414" percentage_of_trasnlit_rules="0.00000">dazjiem</word>
+			<word is_in_dictionary="1" ngram_probability="0.61090" percentage_of_trasnlit_rules="0.10000">iznjemumiem</word>
+		</words>
+	</comment>
+	<comment words="5" words_in_dictionary="1.00000" ngram_probability="0.46033" percentage_of_trasnlit_rules="0.09357" cumulative_probability="0.86155">
+		<original>Matematika: 1-5 nepatiik ; 6-10 patiik  Paarbaudi:D</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.52913" percentage_of_trasnlit_rules="0.00000">Matematika</word>
+			<word is_in_dictionary="1" ngram_probability="0.59116" percentage_of_trasnlit_rules="0.14286">nepatiik</word>
+			<word is_in_dictionary="1" ngram_probability="0.00000" percentage_of_trasnlit_rules="0.00000">10</word>
+			<word is_in_dictionary="1" ngram_probability="0.59462" percentage_of_trasnlit_rules="0.20000">patiik</word>
+			<word is_in_dictionary="1" ngram_probability="0.58673" percentage_of_trasnlit_rules="0.12500">Paarbaudi</word>
+		</words>
+	</comment>
+	<comment words="8" words_in_dictionary="1.00000" ngram_probability="0.42695" percentage_of_trasnlit_rules="0.18750" cumulative_probability="0.97563">
+		<original>ko tu sodien dariji 1.(sex) 2. (jerk) 3. (pee) 4. (smoke)</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.44923" percentage_of_trasnlit_rules="0.00000">ko</word>
+			<word is_in_dictionary="1" ngram_probability="0.47147" percentage_of_trasnlit_rules="0.00000">tu</word>
+			<word is_in_dictionary="1" ngram_probability="0.54139" percentage_of_trasnlit_rules="0.00000">sodien</word>
+			<word is_in_dictionary="1" ngram_probability="0.55281" percentage_of_trasnlit_rules="0.00000">dariji</word>
+			<word is_in_dictionary="1" ngram_probability="0.00000" percentage_of_trasnlit_rules="1.00000">sex</word>
+			<word is_in_dictionary="1" ngram_probability="0.48340" percentage_of_trasnlit_rules="0.00000">jerk</word>
+			<word is_in_dictionary="1" ngram_probability="0.48592" percentage_of_trasnlit_rules="0.50000">pee</word>
+			<word is_in_dictionary="1" ngram_probability="0.43136" percentage_of_trasnlit_rules="0.00000">smoke</word>
+		</words>
+	</comment>
+	<comment words="13" words_in_dictionary="0.92308" ngram_probability="0.47615" percentage_of_trasnlit_rules="0.03480" cumulative_probability="0.71258">
+		<original>aizmirsi piebist 'IDIOTIEM;:))Nu ja tak 100% iemestu siikiees nez kadel vinjiem neuzticas ;[</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.52210" percentage_of_trasnlit_rules="0.00000">aizmirsi</word>
+			<word is_in_dictionary="1" ngram_probability="0.51267" percentage_of_trasnlit_rules="0.00000">piebist</word>
+			<word is_in_dictionary="1" ngram_probability="0.51349" percentage_of_trasnlit_rules="0.00000">IDIOTIEM</word>
+			<word is_in_dictionary="1" ngram_probability="0.45592" percentage_of_trasnlit_rules="0.00000">Nu</word>
+			<word is_in_dictionary="1" ngram_probability="0.49316" percentage_of_trasnlit_rules="0.00000">ja</word>
+			<word is_in_dictionary="1" ngram_probability="0.48061" percentage_of_trasnlit_rules="0.00000">tak</word>
+			<word is_in_dictionary="1" ngram_probability="0.00000" percentage_of_trasnlit_rules="0.00000">100</word>
+			<word is_in_dictionary="1" ngram_probability="0.47728" percentage_of_trasnlit_rules="0.00000">iemestu</word>
+			<word is_in_dictionary="0" ngram_probability="0.59329" percentage_of_trasnlit_rules="0.28571">siikiees</word>
+			<word is_in_dictionary="1" ngram_probability="0.49405" percentage_of_trasnlit_rules="0.00000">nez</word>
+			<word is_in_dictionary="1" ngram_probability="0.55662" percentage_of_trasnlit_rules="0.00000">kadel</word>
+			<word is_in_dictionary="1" ngram_probability="0.60219" percentage_of_trasnlit_rules="0.16667">vinjiem</word>
+			<word is_in_dictionary="1" ngram_probability="0.48854" percentage_of_trasnlit_rules="0.00000">neuzticas</word>
+		</words>
+	</comment>
+	<comment words="4" words_in_dictionary="1.00000" ngram_probability="0.56342" percentage_of_trasnlit_rules="0.09821" cumulative_probability="0.92579">
+		<original>tur skaneeja biku savaadaak</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.46155" percentage_of_trasnlit_rules="0.00000">tur</word>
+			<word is_in_dictionary="1" ngram_probability="0.59611" percentage_of_trasnlit_rules="0.14286">skaneeja</word>
+			<word is_in_dictionary="1" ngram_probability="0.48401" percentage_of_trasnlit_rules="0.00000">biku</word>
+			<word is_in_dictionary="1" ngram_probability="0.71202" percentage_of_trasnlit_rules="0.25000">savaadaak</word>
+		</words>
+	</comment>
+	<comment words="17" words_in_dictionary="0.94118" ngram_probability="0.47190" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.67860">
+		<original>hokeja jaunie noteikumi:par spelesanu atrodoties reibuma stavokli-slidu konfistesana vai naudas sods 45 polsu apmera (test)</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.49270" percentage_of_trasnlit_rules="0.00000">hokeja</word>
+			<word is_in_dictionary="1" ngram_probability="0.49758" percentage_of_trasnlit_rules="0.00000">jaunie</word>
+			<word is_in_dictionary="1" ngram_probability="0.47356" percentage_of_trasnlit_rules="0.00000">noteikumi</word>
+			<word is_in_dictionary="1" ngram_probability="0.48130" percentage_of_trasnlit_rules="0.00000">par</word>
+			<word is_in_dictionary="1" ngram_probability="0.59631" percentage_of_trasnlit_rules="0.00000">spelesanu</word>
+			<word is_in_dictionary="1" ngram_probability="0.46886" percentage_of_trasnlit_rules="0.00000">atrodoties</word>
+			<word is_in_dictionary="1" ngram_probability="0.50974" percentage_of_trasnlit_rules="0.00000">reibuma</word>
+			<word is_in_dictionary="1" ngram_probability="0.55457" percentage_of_trasnlit_rules="0.00000">stavokli</word>
+			<word is_in_dictionary="1" ngram_probability="0.51879" percentage_of_trasnlit_rules="0.00000">slidu</word>
+			<word is_in_dictionary="0" ngram_probability="0.54973" percentage_of_trasnlit_rules="0.00000">konfistesana</word>
+			<word is_in_dictionary="1" ngram_probability="0.44424" percentage_of_trasnlit_rules="0.00000">vai</word>
+			<word is_in_dictionary="1" ngram_probability="0.48920" percentage_of_trasnlit_rules="0.00000">naudas</word>
+			<word is_in_dictionary="1" ngram_probability="0.46794" percentage_of_trasnlit_rules="0.00000">sods</word>
+			<word is_in_dictionary="1" ngram_probability="0.00000" percentage_of_trasnlit_rules="0.00000">45</word>
+			<word is_in_dictionary="1" ngram_probability="0.46277" percentage_of_trasnlit_rules="0.00000">polsu</word>
+			<word is_in_dictionary="1" ngram_probability="0.53236" percentage_of_trasnlit_rules="0.00000">apmera</word>
+			<word is_in_dictionary="1" ngram_probability="0.48269" percentage_of_trasnlit_rules="0.00000">test</word>
+		</words>
+	</comment>
+	<comment words="13" words_in_dictionary="1.00000" ngram_probability="0.48175" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.74128">
+		<original>Ja tev zveja neiet!Tad tur jau kads ar elektribu ir izsitis visass! :D</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.49316" percentage_of_trasnlit_rules="0.00000">Ja</word>
+			<word is_in_dictionary="1" ngram_probability="0.46089" percentage_of_trasnlit_rules="0.00000">tev</word>
+			<word is_in_dictionary="1" ngram_probability="0.48186" percentage_of_trasnlit_rules="0.00000">zveja</word>
+			<word is_in_dictionary="1" ngram_probability="0.49898" percentage_of_trasnlit_rules="0.00000">neiet</word>
+			<word is_in_dictionary="1" ngram_probability="0.45306" percentage_of_trasnlit_rules="0.00000">Tad</word>
+			<word is_in_dictionary="1" ngram_probability="0.46155" percentage_of_trasnlit_rules="0.00000">tur</word>
+			<word is_in_dictionary="1" ngram_probability="0.43092" percentage_of_trasnlit_rules="0.00000">jau</word>
+			<word is_in_dictionary="1" ngram_probability="0.57151" percentage_of_trasnlit_rules="0.00000">kads</word>
+			<word is_in_dictionary="1" ngram_probability="0.44611" percentage_of_trasnlit_rules="0.00000">ar</word>
+			<word is_in_dictionary="1" ngram_probability="0.53978" percentage_of_trasnlit_rules="0.00000">elektribu</word>
+			<word is_in_dictionary="1" ngram_probability="0.42158" percentage_of_trasnlit_rules="0.00000">ir</word>
+			<word is_in_dictionary="1" ngram_probability="0.52326" percentage_of_trasnlit_rules="0.00000">izsitis</word>
+			<word is_in_dictionary="1" ngram_probability="0.48013" percentage_of_trasnlit_rules="0.00000">visass</word>
+		</words>
+	</comment>
+	<comment words="12" words_in_dictionary="1.00000" ngram_probability="0.47504" percentage_of_trasnlit_rules="0.10000" cumulative_probability="0.87887">
+		<original>Nobalsojiet ludzu ,ieejat muzikas sadala-MARTINO(music) ,vardus sarakstijusi mana meitina(pray)</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.51934" percentage_of_trasnlit_rules="0.00000">Nobalsojiet</word>
+			<word is_in_dictionary="1" ngram_probability="0.55855" percentage_of_trasnlit_rules="0.00000">ludzu</word>
+			<word is_in_dictionary="1" ngram_probability="0.55018" percentage_of_trasnlit_rules="0.20000">ieejat</word>
+			<word is_in_dictionary="1" ngram_probability="0.49387" percentage_of_trasnlit_rules="0.00000">muzikas</word>
+			<word is_in_dictionary="1" ngram_probability="0.49935" percentage_of_trasnlit_rules="0.00000">sadala</word>
+			<word is_in_dictionary="1" ngram_probability="0.48706" percentage_of_trasnlit_rules="0.00000">MARTINO</word>
+			<word is_in_dictionary="1" ngram_probability="0.42029" percentage_of_trasnlit_rules="0.00000">music</word>
+			<word is_in_dictionary="1" ngram_probability="0.52676" percentage_of_trasnlit_rules="0.00000">vardus</word>
+			<word is_in_dictionary="1" ngram_probability="0.58688" percentage_of_trasnlit_rules="0.00000">sarakstijusi</word>
+			<word is_in_dictionary="1" ngram_probability="0.51688" percentage_of_trasnlit_rules="0.00000">mana</word>
+			<word is_in_dictionary="1" ngram_probability="0.54137" percentage_of_trasnlit_rules="0.00000">meitina</word>
+			<word is_in_dictionary="1" ngram_probability="0.00000" percentage_of_trasnlit_rules="1.00000">pray</word>
+		</words>
+	</comment>
+	<comment words="12" words_in_dictionary="1.00000" ngram_probability="0.47543" percentage_of_trasnlit_rules="0.12778" cumulative_probability="0.91834">
+		<original>Dzive sodien izdodas! Paldies! RT @Pussylounge Lai Tev shodien izdodas iecereetaas lietas ;)</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.58807" percentage_of_trasnlit_rules="0.00000">Dzive</word>
+			<word is_in_dictionary="1" ngram_probability="0.54139" percentage_of_trasnlit_rules="0.00000">sodien</word>
+			<word is_in_dictionary="1" ngram_probability="0.49709" percentage_of_trasnlit_rules="0.00000">izdodas</word>
+			<word is_in_dictionary="1" ngram_probability="0.46525" percentage_of_trasnlit_rules="0.00000">Paldies</word>
+			<word is_in_dictionary="1" ngram_probability="0.46285" percentage_of_trasnlit_rules="0.00000">RT</word>
+			<word is_in_dictionary="1" ngram_probability="0.00000" percentage_of_trasnlit_rules="1.00000">Pussylounge</word>
+			<word is_in_dictionary="1" ngram_probability="0.44099" percentage_of_trasnlit_rules="0.00000">Lai</word>
+			<word is_in_dictionary="1" ngram_probability="0.46089" percentage_of_trasnlit_rules="0.00000">Tev</word>
+			<word is_in_dictionary="1" ngram_probability="0.60592" percentage_of_trasnlit_rules="0.33333">shodien</word>
+			<word is_in_dictionary="1" ngram_probability="0.49709" percentage_of_trasnlit_rules="0.00000">izdodas</word>
+			<word is_in_dictionary="1" ngram_probability="0.64597" percentage_of_trasnlit_rules="0.20000">iecereetaas</word>
+			<word is_in_dictionary="1" ngram_probability="0.49964" percentage_of_trasnlit_rules="0.00000">lietas</word>
+		</words>
+	</comment>
+	<comment words="9" words_in_dictionary="1.00000" ngram_probability="0.52853" percentage_of_trasnlit_rules="0.17222" cumulative_probability="1.00000">
+		<original>Fcuk, kaa dabuut latvieshu burtus ieksh standartas Android 2.2 tastatuuras?</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.45196" percentage_of_trasnlit_rules="0.00000">Fcuk</word>
+			<word is_in_dictionary="1" ngram_probability="0.54496" percentage_of_trasnlit_rules="0.50000">kaa</word>
+			<word is_in_dictionary="1" ngram_probability="0.60576" percentage_of_trasnlit_rules="0.20000">dabuut</word>
+			<word is_in_dictionary="1" ngram_probability="0.65547" percentage_of_trasnlit_rules="0.25000">latvieshu</word>
+			<word is_in_dictionary="1" ngram_probability="0.47670" percentage_of_trasnlit_rules="0.00000">burtus</word>
+			<word is_in_dictionary="1" ngram_probability="0.61424" percentage_of_trasnlit_rules="0.50000">ieksh</word>
+			<word is_in_dictionary="1" ngram_probability="0.46565" percentage_of_trasnlit_rules="0.00000">standartas</word>
+			<word is_in_dictionary="1" ngram_probability="0.40582" percentage_of_trasnlit_rules="0.00000">Android</word>
+			<word is_in_dictionary="1" ngram_probability="0.53621" percentage_of_trasnlit_rules="0.10000">tastatuuras</word>
+		</words>
+	</comment>
+	<comment words="5" words_in_dictionary="0.60000" ngram_probability="0.23998" percentage_of_trasnlit_rules="0.20000" cumulative_probability="0.50000">
+		<original>Literatura http://twitpic.com/4tllmz</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.53815" percentage_of_trasnlit_rules="0.00000">Literatura</word>
+			<word is_in_dictionary="1" ngram_probability="0.24596" percentage_of_trasnlit_rules="0.00000">http</word>
+			<word is_in_dictionary="0" ngram_probability="0.00000" percentage_of_trasnlit_rules="1.00000">twitpic</word>
+			<word is_in_dictionary="1" ngram_probability="0.41580" percentage_of_trasnlit_rules="0.00000">com</word>
+			<word is_in_dictionary="0" ngram_probability="0.00000" percentage_of_trasnlit_rules="0.00000">4tllmz</word>
+		</words>
+	</comment>
+	<comment words="2" words_in_dictionary="1.00000" ngram_probability="0.49897" percentage_of_trasnlit_rules="0.10000" cumulative_probability="0.89225">
+		<original>P.S. no Riigas</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.45108" percentage_of_trasnlit_rules="0.00000">no</word>
+			<word is_in_dictionary="1" ngram_probability="0.54686" percentage_of_trasnlit_rules="0.20000">Riigas</word>
+		</words>
+	</comment>
+	<comment words="13" words_in_dictionary="1.00000" ngram_probability="0.50531" percentage_of_trasnlit_rules="0.04945" cumulative_probability="0.82435">
+		<original>Ja kaads sodien vai piktdien brauc ar automobili uz Kaarsavu padodiet zinju man!</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.49316" percentage_of_trasnlit_rules="0.00000">Ja</word>
+			<word is_in_dictionary="1" ngram_probability="0.60838" percentage_of_trasnlit_rules="0.25000">kaads</word>
+			<word is_in_dictionary="1" ngram_probability="0.54139" percentage_of_trasnlit_rules="0.00000">sodien</word>
+			<word is_in_dictionary="1" ngram_probability="0.44424" percentage_of_trasnlit_rules="0.00000">vai</word>
+			<word is_in_dictionary="1" ngram_probability="0.52117" percentage_of_trasnlit_rules="0.00000">piktdien</word>
+			<word is_in_dictionary="1" ngram_probability="0.51018" percentage_of_trasnlit_rules="0.00000">brauc</word>
+			<word is_in_dictionary="1" ngram_probability="0.44611" percentage_of_trasnlit_rules="0.00000">ar</word>
+			<word is_in_dictionary="1" ngram_probability="0.49079" percentage_of_trasnlit_rules="0.00000">automobili</word>
+			<word is_in_dictionary="1" ngram_probability="0.44718" percentage_of_trasnlit_rules="0.00000">uz</word>
+			<word is_in_dictionary="1" ngram_probability="0.58031" percentage_of_trasnlit_rules="0.14286">Kaarsavu</word>
+			<word is_in_dictionary="1" ngram_probability="0.45727" percentage_of_trasnlit_rules="0.00000">padodiet</word>
+			<word is_in_dictionary="1" ngram_probability="0.59843" percentage_of_trasnlit_rules="0.25000">zinju</word>
+			<word is_in_dictionary="1" ngram_probability="0.43039" percentage_of_trasnlit_rules="0.00000">man</word>
+		</words>
+	</comment>
+	<comment words="2" words_in_dictionary="1.00000" ngram_probability="0.50075" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.75190">
+		<original>Vajag nobalsot</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.47615" percentage_of_trasnlit_rules="0.00000">Vajag</word>
+			<word is_in_dictionary="1" ngram_probability="0.52535" percentage_of_trasnlit_rules="0.00000">nobalsot</word>
+		</words>
+	</comment>
+	<comment words="8" words_in_dictionary="1.00000" ngram_probability="0.48122" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.74098">
+		<original>esiet engeli jo tie ir gudri un labsirdigi</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.47816" percentage_of_trasnlit_rules="0.00000">esiet</word>
+			<word is_in_dictionary="1" ngram_probability="0.53820" percentage_of_trasnlit_rules="0.00000">engeli</word>
+			<word is_in_dictionary="1" ngram_probability="0.44690" percentage_of_trasnlit_rules="0.00000">jo</word>
+			<word is_in_dictionary="1" ngram_probability="0.45293" percentage_of_trasnlit_rules="0.00000">tie</word>
+			<word is_in_dictionary="1" ngram_probability="0.42158" percentage_of_trasnlit_rules="0.00000">ir</word>
+			<word is_in_dictionary="1" ngram_probability="0.52571" percentage_of_trasnlit_rules="0.00000">gudri</word>
+			<word is_in_dictionary="1" ngram_probability="0.40150" percentage_of_trasnlit_rules="0.00000">un</word>
+			<word is_in_dictionary="1" ngram_probability="0.58479" percentage_of_trasnlit_rules="0.00000">labsirdigi</word>
+		</words>
+	</comment>
+	<comment words="12" words_in_dictionary="1.00000" ngram_probability="0.45901" percentage_of_trasnlit_rules="0.07176" cumulative_probability="0.82998">
+		<original>Bankas guust pelnu, pirmaja ceturksni SEB 29 miljoni LVL. Buus pieejamaki krediti?</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.49389" percentage_of_trasnlit_rules="0.00000">Bankas</word>
+			<word is_in_dictionary="1" ngram_probability="0.61777" percentage_of_trasnlit_rules="0.25000">guust</word>
+			<word is_in_dictionary="1" ngram_probability="0.51129" percentage_of_trasnlit_rules="0.00000">pelnu</word>
+			<word is_in_dictionary="1" ngram_probability="0.52677" percentage_of_trasnlit_rules="0.00000">pirmaja</word>
+			<word is_in_dictionary="1" ngram_probability="0.47128" percentage_of_trasnlit_rules="0.00000">ceturksni</word>
+			<word is_in_dictionary="1" ngram_probability="0.41613" percentage_of_trasnlit_rules="0.00000">SEB</word>
+			<word is_in_dictionary="1" ngram_probability="0.00000" percentage_of_trasnlit_rules="0.00000">29</word>
+			<word is_in_dictionary="1" ngram_probability="0.45946" percentage_of_trasnlit_rules="0.16667">miljoni</word>
+			<word is_in_dictionary="1" ngram_probability="0.37042" percentage_of_trasnlit_rules="0.00000">LVL</word>
+			<word is_in_dictionary="1" ngram_probability="0.56709" percentage_of_trasnlit_rules="0.33333">Buus</word>
+			<word is_in_dictionary="1" ngram_probability="0.54529" percentage_of_trasnlit_rules="0.11111">pieejamaki</word>
+			<word is_in_dictionary="1" ngram_probability="0.52868" percentage_of_trasnlit_rules="0.00000">krediti</word>
+		</words>
+	</comment>
+	<comment words="8" words_in_dictionary="1.00000" ngram_probability="0.53301" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.76995">
+		<original>invalidu valstis spelejat labak B GRUPA tur busiet cempi</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.51861" percentage_of_trasnlit_rules="0.00000">invalidu</word>
+			<word is_in_dictionary="1" ngram_probability="0.49526" percentage_of_trasnlit_rules="0.00000">valstis</word>
+			<word is_in_dictionary="1" ngram_probability="0.61014" percentage_of_trasnlit_rules="0.00000">spelejat</word>
+			<word is_in_dictionary="1" ngram_probability="0.58486" percentage_of_trasnlit_rules="0.00000">labak</word>
+			<word is_in_dictionary="1" ngram_probability="0.49063" percentage_of_trasnlit_rules="0.00000">GRUPA</word>
+			<word is_in_dictionary="1" ngram_probability="0.46155" percentage_of_trasnlit_rules="0.00000">tur</word>
+			<word is_in_dictionary="1" ngram_probability="0.52836" percentage_of_trasnlit_rules="0.00000">busiet</word>
+			<word is_in_dictionary="1" ngram_probability="0.57466" percentage_of_trasnlit_rules="0.00000">cempi</word>
+		</words>
+	</comment>
+	<comment words="19" words_in_dictionary="1.00000" ngram_probability="0.47488" percentage_of_trasnlit_rules="0.11015" cumulative_probability="0.89312">
+		<original>Muusdienaas trauksmes signaalu dzirdot neviens neiet pie radio, vnk ielogojas twiterii un lasa, kaa visi zheelojas, kur trauksmi nedzird</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.65849" percentage_of_trasnlit_rules="0.20000">Muusdienaas</word>
+			<word is_in_dictionary="1" ngram_probability="0.47247" percentage_of_trasnlit_rules="0.00000">trauksmes</word>
+			<word is_in_dictionary="1" ngram_probability="0.59216" percentage_of_trasnlit_rules="0.14286">signaalu</word>
+			<word is_in_dictionary="1" ngram_probability="0.50138" percentage_of_trasnlit_rules="0.00000">dzirdot</word>
+			<word is_in_dictionary="1" ngram_probability="0.48636" percentage_of_trasnlit_rules="0.00000">neviens</word>
+			<word is_in_dictionary="1" ngram_probability="0.49898" percentage_of_trasnlit_rules="0.00000">neiet</word>
+			<word is_in_dictionary="1" ngram_probability="0.46103" percentage_of_trasnlit_rules="0.00000">pie</word>
+			<word is_in_dictionary="1" ngram_probability="0.45668" percentage_of_trasnlit_rules="0.00000">radio</word>
+			<word is_in_dictionary="1" ngram_probability="0.38426" percentage_of_trasnlit_rules="0.00000">vnk</word>
+			<word is_in_dictionary="1" ngram_probability="0.53515" percentage_of_trasnlit_rules="0.00000">ielogojas</word>
+			<word is_in_dictionary="1" ngram_probability="0.00000" percentage_of_trasnlit_rules="1.00000">twiterii</word>
+			<word is_in_dictionary="1" ngram_probability="0.40150" percentage_of_trasnlit_rules="0.00000">un</word>
+			<word is_in_dictionary="1" ngram_probability="0.50558" percentage_of_trasnlit_rules="0.00000">lasa</word>
+			<word is_in_dictionary="1" ngram_probability="0.54496" percentage_of_trasnlit_rules="0.50000">kaa</word>
+			<word is_in_dictionary="1" ngram_probability="0.48152" percentage_of_trasnlit_rules="0.00000">visi</word>
+			<word is_in_dictionary="1" ngram_probability="0.63471" percentage_of_trasnlit_rules="0.25000">zheelojas</word>
+			<word is_in_dictionary="1" ngram_probability="0.44719" percentage_of_trasnlit_rules="0.00000">kur</word>
+			<word is_in_dictionary="1" ngram_probability="0.47386" percentage_of_trasnlit_rules="0.00000">trauksmi</word>
+			<word is_in_dictionary="1" ngram_probability="0.48642" percentage_of_trasnlit_rules="0.00000">nedzird</word>
+		</words>
+	</comment>
+	<comment words="6" words_in_dictionary="1.00000" ngram_probability="0.51186" percentage_of_trasnlit_rules="0.14881" cumulative_probability="0.96846">
+		<original>Ak jaaaa :) sodien tac sireenas parbauda :)</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.47416" percentage_of_trasnlit_rules="0.00000">Ak</word>
+			<word is_in_dictionary="1" ngram_probability="0.47906" percentage_of_trasnlit_rules="0.75000">jaaaa</word>
+			<word is_in_dictionary="1" ngram_probability="0.54139" percentage_of_trasnlit_rules="0.00000">sodien</word>
+			<word is_in_dictionary="1" ngram_probability="0.45643" percentage_of_trasnlit_rules="0.00000">tac</word>
+			<word is_in_dictionary="1" ngram_probability="0.56957" percentage_of_trasnlit_rules="0.14286">sireenas</word>
+			<word is_in_dictionary="1" ngram_probability="0.55057" percentage_of_trasnlit_rules="0.00000">parbauda</word>
+		</words>
+	</comment>
+	<comment words="4" words_in_dictionary="1.00000" ngram_probability="0.50941" percentage_of_trasnlit_rules="0.18750" cumulative_probability="1.00000">
+		<original>eu, karsh vai maaciibas ?</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.42112" percentage_of_trasnlit_rules="0.00000">eu</word>
+			<word is_in_dictionary="1" ngram_probability="0.52396" percentage_of_trasnlit_rules="0.50000">karsh</word>
+			<word is_in_dictionary="1" ngram_probability="0.44424" percentage_of_trasnlit_rules="0.00000">vai</word>
+			<word is_in_dictionary="1" ngram_probability="0.64830" percentage_of_trasnlit_rules="0.25000">maaciibas</word>
+		</words>
+	</comment>
+	<comment words="14" words_in_dictionary="1.00000" ngram_probability="0.47921" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.73985">
+		<original>Ar smaidu seja - un uz prieksu,draugi novelu jums jauku dienu,un saulainu.(sun)</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.44611" percentage_of_trasnlit_rules="0.00000">Ar</word>
+			<word is_in_dictionary="1" ngram_probability="0.47179" percentage_of_trasnlit_rules="0.00000">smaidu</word>
+			<word is_in_dictionary="1" ngram_probability="0.50958" percentage_of_trasnlit_rules="0.00000">seja</word>
+			<word is_in_dictionary="1" ngram_probability="0.40150" percentage_of_trasnlit_rules="0.00000">un</word>
+			<word is_in_dictionary="1" ngram_probability="0.44718" percentage_of_trasnlit_rules="0.00000">uz</word>
+			<word is_in_dictionary="1" ngram_probability="0.53855" percentage_of_trasnlit_rules="0.00000">prieksu</word>
+			<word is_in_dictionary="1" ngram_probability="0.50145" percentage_of_trasnlit_rules="0.00000">draugi</word>
+			<word is_in_dictionary="1" ngram_probability="0.55335" percentage_of_trasnlit_rules="0.00000">novelu</word>
+			<word is_in_dictionary="1" ngram_probability="0.47286" percentage_of_trasnlit_rules="0.00000">jums</word>
+			<word is_in_dictionary="1" ngram_probability="0.49230" percentage_of_trasnlit_rules="0.00000">jauku</word>
+			<word is_in_dictionary="1" ngram_probability="0.49433" percentage_of_trasnlit_rules="0.00000">dienu</word>
+			<word is_in_dictionary="1" ngram_probability="0.40150" percentage_of_trasnlit_rules="0.00000">un</word>
+			<word is_in_dictionary="1" ngram_probability="0.54432" percentage_of_trasnlit_rules="0.00000">saulainu</word>
+			<word is_in_dictionary="1" ngram_probability="0.43409" percentage_of_trasnlit_rules="0.00000">sun</word>
+		</words>
+	</comment>
+	<comment words="5" words_in_dictionary="1.00000" ngram_probability="0.53302" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.76996">
+		<original>Palidzi man uzcelt brivibas pieminekli</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.56618" percentage_of_trasnlit_rules="0.00000">Palidzi</word>
+			<word is_in_dictionary="1" ngram_probability="0.43039" percentage_of_trasnlit_rules="0.00000">man</word>
+			<word is_in_dictionary="1" ngram_probability="0.50893" percentage_of_trasnlit_rules="0.00000">uzcelt</word>
+			<word is_in_dictionary="1" ngram_probability="0.62607" percentage_of_trasnlit_rules="0.00000">brivibas</word>
+			<word is_in_dictionary="1" ngram_probability="0.53351" percentage_of_trasnlit_rules="0.00000">pieminekli</word>
+		</words>
+	</comment>
+	<comment words="4" words_in_dictionary="1.00000" ngram_probability="0.49087" percentage_of_trasnlit_rules="0.03125" cumulative_probability="0.79055">
+		<original>a jebkas var gadiities.  (dunno)</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.45369" percentage_of_trasnlit_rules="0.00000">jebkas</word>
+			<word is_in_dictionary="1" ngram_probability="0.44753" percentage_of_trasnlit_rules="0.00000">var</word>
+			<word is_in_dictionary="1" ngram_probability="0.61293" percentage_of_trasnlit_rules="0.12500">gadiities</word>
+			<word is_in_dictionary="1" ngram_probability="0.44935" percentage_of_trasnlit_rules="0.00000">dunno</word>
+		</words>
+	</comment>
+	<comment words="6" words_in_dictionary="1.00000" ngram_probability="0.51980" percentage_of_trasnlit_rules="0.31111" cumulative_probability="1.00000">
+		<original>jaa, man arii kkaa taa likaas ;D</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.52631" percentage_of_trasnlit_rules="0.50000">jaa</word>
+			<word is_in_dictionary="1" ngram_probability="0.43039" percentage_of_trasnlit_rules="0.00000">man</word>
+			<word is_in_dictionary="1" ngram_probability="0.57446" percentage_of_trasnlit_rules="0.33333">arii</word>
+			<word is_in_dictionary="1" ngram_probability="0.46598" percentage_of_trasnlit_rules="0.33333">kkaa</word>
+			<word is_in_dictionary="1" ngram_probability="0.54851" percentage_of_trasnlit_rules="0.50000">taa</word>
+			<word is_in_dictionary="1" ngram_probability="0.57315" percentage_of_trasnlit_rules="0.20000">likaas</word>
+		</words>
+	</comment>
+	<comment words="11" words_in_dictionary="1.00000" ngram_probability="0.50684" percentage_of_trasnlit_rules="0.00000" cumulative_probability="0.75531">
+		<original>piparmetru teju pirms gulet iesanas -  pats labakais,kas vien var but....  ;)</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.51369" percentage_of_trasnlit_rules="0.00000">piparmetru</word>
+			<word is_in_dictionary="1" ngram_probability="0.50900" percentage_of_trasnlit_rules="0.00000">teju</word>
+			<word is_in_dictionary="1" ngram_probability="0.46315" percentage_of_trasnlit_rules="0.00000">pirms</word>
+			<word is_in_dictionary="1" ngram_probability="0.57077" percentage_of_trasnlit_rules="0.00000">gulet</word>
+			<word is_in_dictionary="1" ngram_probability="0.56464" percentage_of_trasnlit_rules="0.00000">iesanas</word>
+			<word is_in_dictionary="1" ngram_probability="0.48714" percentage_of_trasnlit_rules="0.00000">pats</word>
+			<word is_in_dictionary="1" ngram_probability="0.55487" percentage_of_trasnlit_rules="0.00000">labakais</word>
+			<word is_in_dictionary="1" ngram_probability="0.47265" percentage_of_trasnlit_rules="0.00000">kas</word>
+			<word is_in_dictionary="1" ngram_probability="0.46124" percentage_of_trasnlit_rules="0.00000">vien</word>
+			<word is_in_dictionary="1" ngram_probability="0.44753" percentage_of_trasnlit_rules="0.00000">var</word>
+			<word is_in_dictionary="1" ngram_probability="0.53052" percentage_of_trasnlit_rules="0.00000">but</word>
+		</words>
+	</comment>
+	<comment words="4" words_in_dictionary="1.00000" ngram_probability="0.55773" percentage_of_trasnlit_rules="0.20833" cumulative_probability="1.00000">
+		<original>nu kaapeec taa jasmejas? :D</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.45592" percentage_of_trasnlit_rules="0.00000">nu</word>
+			<word is_in_dictionary="1" ngram_probability="0.66666" percentage_of_trasnlit_rules="0.33333">kaapeec</word>
+			<word is_in_dictionary="1" ngram_probability="0.54851" percentage_of_trasnlit_rules="0.50000">taa</word>
+			<word is_in_dictionary="1" ngram_probability="0.55984" percentage_of_trasnlit_rules="0.00000">jasmejas</word>
+		</words>
+	</comment>
+	<comment words="4" words_in_dictionary="1.00000" ngram_probability="0.55025" percentage_of_trasnlit_rules="0.10714" cumulative_probability="0.93104">
+		<original>Velviens jocinjsh par politiku :d</original>
+		<words>
+			<word is_in_dictionary="1" ngram_probability="0.50036" percentage_of_trasnlit_rules="0.00000">Velviens</word>
+			<word is_in_dictionary="1" ngram_probability="0.72254" percentage_of_trasnlit_rules="0.42857">jocinjsh</word>
+			<word is_in_dictionary="1" ngram_probability="0.48130" percentage_of_trasnlit_rules="0.00000">par</word>
+			<word is_in_dictionary="1" ngram_probability="0.49681" percentage_of_trasnlit_rules="0.00000">politiku</word>
+		</words>
+	</comment>
+</comments>

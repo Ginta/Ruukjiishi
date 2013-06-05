@@ -3,6 +3,7 @@ package common;
 import java.util.ArrayList;
 
 import splitter.Splitter;
+import splitter.Splitting;
 
 public class Comment {
 	public String original;
@@ -16,8 +17,8 @@ public class Comment {
 	public Comment(String comment)
 	{
 		original=comment;
-		Splitter spliter=new Splitter();
-		words=spliter.process(comment);
+		Splitting spliter=new Splitting();
+		words=spliter.tokenize(comment);
 		ngramTranslitProbability=0;
 		wordsTotal=words.size();
 		wordsInTranslitDictionary=0;

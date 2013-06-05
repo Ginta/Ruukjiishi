@@ -143,4 +143,14 @@ public class FileProcessor {
 	            }
 	        }
 	}
+
+	public ArrayList<Comment> processXMLFile(String fileName) throws Exception// to do
+	{
+		ArrayList<Comment> comments=new ArrayList<Comment>(); 
+		BufferedReader br=null;
+		br = new BufferedReader(new InputStreamReader(new FileInputStream(fileName), "utf-8"));
+		
+		
+		return comments;
+	}
 }

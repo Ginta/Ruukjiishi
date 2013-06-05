@@ -25,9 +25,11 @@
 		<r target="c">č</r>
 		<r target="ch">č</r>
 		<r target="n">ņ</r>
+		<r target="nn">ņ</r>
 		<r target="nj">ņ</r>
 		<r target="4">č</r>
 		<r target="w">u</r>
+		<r target="ō">o</r>
 		
 		<!-- numbers fuzzy -->
 		<r target="1">
@@ -44,26 +46,32 @@
 		</r>
 		<r target="4">
 			<replace position="begin">ceturt</replace>
+			<replace position="begin">cetur</replace>
 			<replace position="begin">četr</replace>
 		</r>
 		<r target="5">
 			<replace position="begin">piekt</replace>
+			<replace position="begin">piek</replace>
 			<replace position="begin">pieci</replace>
 		</r>
 		<r target="6">
 			<replace position="begin">sest</replace>
+			<replace position="begin">ses</replace>
 			<replace position="begin">seši</replace>
 		</r>
 		<r target="7">
 			<replace position="begin">septīt</replace>
+			<replace position="begin">septī</replace>
 			<replace position="begin">septiņ</replace>
 		</r>
 		<r target="8">
 			<replace position="begin">astot</replace>
+			<replace position="begin">asto</replace>
 			<replace position="begin">astoņ</replace>
 		</r>
 		<r target="9">
 			<replace position="begin">devīt</replace>
+			<replace position="begin">devī</replace>
 			<replace position="begin">deviņ</replace>
 		</r>
 		
@@ -86,8 +94,11 @@
 		<r target="jaw">
 			<replace position="exact">jau</replace>
 		</r>
-			<r target="smth">
+		<r target="smth">
 			<replace position="exact">kaut kas</replace>
+		</r>
+		<r target="vsp">
+			<replace position="exact">vispār</replace>
 		</r>
 	</fuzzy>
 </rules>
