@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rules>
+	<fuzzy>
+		<!-- basic fuzy -->
+		<r target="a">ā</r>
+		<r target="aa">ā</r>
+		<r target="e">ē</r>
+		<r target="ee">ē</r>
+		<r target="u">ū</r>
+		<r target="uu">ū</r>
+		<r target="i">ī</r>
+		<r target="ii">ī</r>
+		<r target="s">š</r>
+		<r target="sh">š</r>
+		<r target="g">ģ</r>
+		<r target="gj">ģ</r>
+		<r target="k">ķ</r>
+		<r target="kj">ķ</r>
+		<r target="l">ļ</r>
+		<r target="lj">ļ</r>
+		<r target="ll">ļ</r>
+		<r target="z">ž</r>
+		<r target="zh">ž</r>
+		<r target="x">ks</r>
+		<r target="c">č</r>
+		<r target="ch">č</r>
+		<r target="n">ņ</r>
+		<r target="nn">ņ</r>
+		<r target="nj">ņ</r>
+		<r target="4">č</r>
+		<r target="w">u</r>
+		<r target="ō">o</r>
+		
+		<!-- numbers fuzzy -->
+		<r target="0">
+			<replace position="begin">nul</replace>
+			<replace position="begin">null</replace>
+		</r>
+		<r target="1">
+			<replace position="begin">pirm</replace>
+			<replace position="begin">vien</replace>
+		</r>
+		<r target="2">
+			<replace position="begin">otr</replace>
+			<replace position="begin">div</replace>
+		</r>
+		<r target="3">
+			<replace position="begin">treš</replace>
+			<replace position="begin">trīs</replace>
+		</r>
+		<r target="4">
+			<replace position="begin">ceturt</replace>
+			<replace position="begin">cetur</replace>
+			<replace position="begin">četr</replace>
+		</r>
+		<r target="5">
+			<replace position="begin">piekt</replace>
+			<replace position="begin">piek</replace>
+			<replace position="begin">pieci</replace>
+		</r>
+		<r target="6">
+			<replace position="begin">sest</replace>
+			<replace position="begin">ses</replace>
+			<replace position="begin">seši</replace>
+		</r>
+		<r target="7">
+			<replace position="begin">septīt</replace>
+			<replace position="begin">septī</replace>
+			<replace position="begin">septiņ</replace>
+		</r>
+		<r target="8">
+			<replace position="begin">astot</replace>
+			<replace position="begin">asto</replace>
+			<replace position="begin">astoņ</replace>
+		</r>
+		<r target="9">
+			<replace position="begin">devīt</replace>
+			<replace position="begin">devī</replace>
+			<replace position="begin">deviņ</replace>
+		</r>
+		
+		<!-- comon mistakes -->
+		<r target="kk">
+			<replace position="begin">kaut k</replace>
+		</r>
+		<r target="c">
+			<replace position="end">ts</replace>
+		</r>
+		<r target="waj">
+			<replace position="exact">vai</replace>
+		</r>
+		<r target="vaj">
+			<replace position="exact">vai</replace>
+		</r>
+		<r target="nau">
+			<replace position="exact">nav</replace>
+		</r>
+		<r target="jaw">
+			<replace position="exact">jau</replace>
+		</r>
+			<r target="smth">
+			<replace position="exact">kaut kas</replace>
+		</r>
+		<r target="vsp">
+			<replace position="exact">vispār</replace>
+		</r>
+		
+		
+		</r>
+			<r target="piem">
+			<replace position="exact">piemēram</replace>
+		</r>	
+		<r target="nez">
+			<replace position="exact">nezinu</replace>
+		</r>
+		<r target="toč">
+			<replace position="exact">tik tiešām</replace>
+		</r>
+		<r target="toč">
+			<replace position="exact">tik tiešām</replace>
+		</r>
+		<r target="sorry">
+			<replace position="exact">atvainojos</replace>
+		</r>
+		<r target="vaig">
+			<replace position="exact">vajag</replace>
+		</r>		
+		<r target="ever">
+			<replace position="exact">vispār</replace>
+		</r>
+		<r target="davai">
+			<replace position="exact">aiziet</replace>
+		</r>
+		<r target="davaj">
+			<replace position="exact">aiziet</replace>
+		</r>
+		<r target="menti">
+			<replace position="exact">poicisti</replace>
+		</r>
+		<r target="mja">
+			<replace position="exact">mjā</replace>
+		</r>
+		<r target="mjaa">
+			<replace position="exact">mjā</replace>
+		</r>
+		<r target="nja">
+			<replace position="exact">njā</replace>
+		</r>
+		<r target="njaa">
+			<replace position="exact">njā</replace>
+		</r>
+		<r target="paga">
+			<replace position="exact">pag</replace>
+		</r>
+		<r target="psc">
+			<replace position="exact"></replace>
+		</r>
+		<r target="a">
+			<replace position="exact">bet</replace>
+		</r>
+		<r target="moš">
+			<replace position="exact">varbūt</replace>
+		</r>
+		<r target="mos">
+			<replace position="exact">varbūt</replace>
+		</r>
+		<r target="mosh">
+			<replace position="exact">varbūt</replace>
+		</r>
+		<r target="okei">
+			<replace position="exact">ok</replace>
+		</r>
+		<r target="maybe">
+			<replace position="exact">varbūt</replace>
+		</r>
+		<r target="mybe">
+			<replace position="exact">varbūt</replace>
+		</r>
+		<r target="vot">
+			<replace position="exact">lūk</replace>
+		</r>
+		<r target="tml">
+			<replace position="exact">tamlīdzīgi</replace>
+		</r>
+		
+	</fuzzy>
+</rules>
+
+
+
