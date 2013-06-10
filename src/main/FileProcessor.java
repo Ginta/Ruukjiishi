@@ -9,21 +9,24 @@ import java.io.FileOutputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Iterator;
 
 import methods.TranslitProcessor;
 
 
 import common.Comment;
+import common.SharedObjects;
 import common.Word;
+import convert.Convertor;
 
 public class FileProcessor {
 
 	
-	public ArrayList<Comment> processFile(String fileName) throws Exception
+	public static ArrayList<Comment> processFile(String fileName) throws Exception
 	{
 		ArrayList<Comment> comments=new ArrayList<Comment>();
 		BufferedReader br=null;
-		TranslitProcessor processor=new TranslitProcessor();
+		TranslitProcessor processor=SharedObjects.getTranslitProcessor();
 		br = new BufferedReader(new InputStreamReader(new FileInputStream(fileName), "utf-8"));
 		String line;
 		while ((line = br.readLine()) != null) {
@@ -35,7 +38,7 @@ public class FileProcessor {
 		return comments;
 	}
 	
-	public void printXmlResultInFile(String fileName,ArrayList<Comment> comments) throws Exception
+	public static void printXmlResultInFile(String fileName,ArrayList<Comment> comments) throws Exception
 	{
 		 BufferedWriter bufferedWriter = null;
 	        
@@ -92,10 +95,13 @@ public class FileProcessor {
 		            
 		            for(Word word : comment.words)
 		            {
+		            	if(!word.isWord)
+		            		continue;
+		            	
 		            	bufferedWriter.write("\t\t\t<word");
 		            	
-		            	bufferedWriter.write(" is_in_dictionary=\"");
-		            	bufferedWriter.write(String.format("%d",(word.isInTranslitDictionary ? 1 : 0)));
+		            	bufferedWriter.write(" dictionary_probability=\"");
+		            	bufferedWriter.write(String.format("%.5f",word.isInTranslitDictionary));
 		            	bufferedWriter.write("\"");
 		            	
 
@@ -144,13 +150,52 @@ public class FileProcessor {
 	        }
 	}
 
-	public ArrayList<Comment> processXMLFile(String fileName) throws Exception// to do
+	public static ArrayList<Comment> readXMLFile(String fileName) throws Exception// to do
 	{
 		ArrayList<Comment> comments=new ArrayList<Comment>(); 
 		BufferedReader br=null;
 		br = new BufferedReader(new InputStreamReader(new FileInputStream(fileName), "utf-8"));
 		
-		
+		br.close();
 		return comments;
+	}
+
+	public static void processCommentFile(String input, String output)
+	{
+		
+	}
+	
+	public static ArrayList<Integer[]> processTestFile(String testfile, String baseline) throws Exception// to do
+	{
+		ArrayList<Comment> comments = processFile(baseline);
+		ArrayList<Integer[]> rez= new ArrayList<Integer[]>();
+		
+		Convertor r = SharedObjects.getConvertor();
+		ArrayList<Comment> commentsConv = r.convertComments(testfile);
+		
+		Iterator<Comment> eIterator = comments.iterator();
+		Iterator<Comment> aIterator = commentsConv.iterator();
+		
+		
+		while (eIterator.hasNext() && aIterator.hasNext())
+		{
+			Integer[] addEl = eIterator.next().compareComment(aIterator.next());
+			
+			/*System.out.println();
+			
+			for(int i : addEl)
+			{
+				System.out.print(i+" ");
+			}*/
+			
+			rez.add(addEl);
+		}
+		
+		if(eIterator.hasNext() && aIterator.hasNext())
+		{
+			throw new Exception("Nav sinhroni koemntāri pēc \""+eIterator.getClass()+"\" \""+aIterator.getClass()+"\"");
+		}
+		
+		return rez;
 	}
 }

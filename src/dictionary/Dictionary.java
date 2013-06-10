@@ -13,8 +13,8 @@ import jdbm.RecordManagerFactory;
 
 public class Dictionary {
 	
-	PrimaryHashMap<String,DictionaryValue> map;
-	RecordManager recMan;
+	public PrimaryHashMap<String,DictionaryValue> map;
+	public RecordManager recMan;
 	
 	public Dictionary()
 	{

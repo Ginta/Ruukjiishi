@@ -5,7 +5,7 @@ import java.io.Serializable;
 public class DictionaryValue implements Serializable {
 
 	private static final long serialVersionUID = 1L;
-	double probability=0.5;
+	public double probability=0.5;
 	int count;
 	
 	public DictionaryValue(int count)

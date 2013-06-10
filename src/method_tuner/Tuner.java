@@ -24,8 +24,7 @@ public class Tuner
 	{
 		try
 		{
-			FileProcessor proc = new FileProcessor();
-			comments = proc.processFile(commentsfile);
+			comments = FileProcessor.processFile(commentsfile);
 			
 			readValues(valuesfile);
 			evalCoef();		

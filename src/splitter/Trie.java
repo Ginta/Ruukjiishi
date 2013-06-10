@@ -40,80 +40,6 @@ public class Trie {
 		root=root.firstChild;
 		branchList.add(root);
 		
-		/* 1
-		 * Iniciāļu automāts atpazīst Dz. Dž. UpperCaseLetter.
-		 */
-		root=new StringNode("D");
-		branchList.add(root);
-		root.firstChild=new StringNode("zžZŽ");
-		root.firstChild.nextSibling=new StringNode(".");
-		root.firstChild.nextSibling.canEnd=true;
-		root.firstChild.firstChild=root.firstChild.nextSibling;
-		root.nextSibling=new UCNode();
-		root.nextSibling.firstChild=root.firstChild.nextSibling;
-		
-		
-		/*
-		 * 2a automāts atpazīst pulksteni
-		 */
-		
-		root=new StringNode("01");
-		branchList.add(root);
-		root.firstChild=new DigitNode();
-		root.firstChild.firstChild=new StringNode(":");
-		root.firstChild.firstChild.firstChild=new StringNode("012345");
-		root.firstChild.firstChild.firstChild.firstChild=new DigitNode();
-		root.firstChild.firstChild.firstChild.firstChild.canEnd=true;
-		root.nextSibling=new StringNode("2");
-		root.nextSibling.firstChild=new StringNode("0123");
-		root.nextSibling.firstChild.firstChild=root.firstChild.firstChild;
-		
-		
-		
-		
-		/*
-		 * 2b automāts
-		 * atpazīst:
-		 *  naudas formā 123,-
-		 * 	pamata skaitļus 
-		 *  kārtas skaitļus
-		 * 	skaitļus ar decimālatdalītāju (punktu vai komatu)
-		 * 	skaitļus ar tūkstošu atdalītāju (komatu vai apostrofu)
-		 * 	daļskaitļus (/ vai \)
-		 */
-		
-		root=new DigitNode();
-		root.canEnd=true;
-		branchList.add(root);
-		root.firstChild=new DigitNode();
-		root.firstChild.canEnd=true;
-		root.firstChild.firstChild=root.firstChild;
-		root.firstChild.nextSibling=new StringNode(".");
-		root.firstChild.nextSibling.canEnd=true;
-		root.firstChild.nextSibling.firstChild=new StringNode("-‐‑‒–—―'");
-		root.firstChild.nextSibling.firstChild.canEnd=true;		
-		root.firstChild.nextSibling.nextSibling=new StringNode(",");
-		root.firstChild.nextSibling.nextSibling.firstChild=new StringNode("-‐‑‒–—―'");
-		root.firstChild.nextSibling.nextSibling.firstChild.canEnd=true;
-		root.firstChild.nextSibling.nextSibling.firstChild.nextSibling=root;
-		root.firstChild.nextSibling.nextSibling.firstChild=root.firstChild.nextSibling.firstChild;
-		root.firstChild.nextSibling.nextSibling.nextSibling=new StringNode(" '/\\");
-		root.firstChild.nextSibling.nextSibling.nextSibling.firstChild=root;
-		
-		tmp=root.firstChild.nextSibling.firstChild;
-		tmp.nextSibling=new DigitNode();
-		tmp=tmp.nextSibling;
-		tmp.canEnd=true;
-		tmp.firstChild=new DigitNode();
-		tmp.firstChild.canEnd=true;
-		tmp.firstChild.firstChild=tmp.firstChild;
-		tmp.firstChild.nextSibling=new StringNode(".,");
-		tmp.firstChild.nextSibling.firstChild=new StringNode("-‐‑‒–—―'");
-		tmp.firstChild.nextSibling.firstChild.canEnd=true;
-		tmp.firstChild.nextSibling.firstChild.nextSibling=tmp;
-		tmp.firstChild.nextSibling.nextSibling=new StringNode(" '/\\");
-		tmp.firstChild.nextSibling.nextSibling.firstChild=tmp;
-		
 
 		
 		
@@ -208,6 +134,80 @@ public class Trie {
 		root.firstChild.nextSibling.nextSibling.canEnd=true;
 		
 
+		/* 1
+		 * Iniciāļu automāts atpazīst Dz. Dž. UpperCaseLetter.
+		 */
+		root=new StringNode("D");
+		branchList.add(root);
+		root.firstChild=new StringNode("zžZŽ");
+		root.firstChild.nextSibling=new StringNode(".");
+		root.firstChild.nextSibling.canEnd=true;
+		root.firstChild.firstChild=root.firstChild.nextSibling;
+		root.nextSibling=new UCNode();
+		root.nextSibling.firstChild=root.firstChild.nextSibling;
+		
+		
+		/*
+		 * 2a automāts atpazīst pulksteni
+		 */
+		
+		root=new StringNode("01");
+		branchList.add(root);
+		root.firstChild=new DigitNode();
+		root.firstChild.firstChild=new StringNode(":");
+		root.firstChild.firstChild.firstChild=new StringNode("012345");
+		root.firstChild.firstChild.firstChild.firstChild=new DigitNode();
+		root.firstChild.firstChild.firstChild.firstChild.canEnd=true;
+		root.nextSibling=new StringNode("2");
+		root.nextSibling.firstChild=new StringNode("0123");
+		root.nextSibling.firstChild.firstChild=root.firstChild.firstChild;
+		
+		
+		
+		
+		/*
+		 * 2b automāts
+		 * atpazīst:
+		 *  naudas formā 123,-
+		 * 	pamata skaitļus 
+		 *  kārtas skaitļus
+		 * 	skaitļus ar decimālatdalītāju (punktu vai komatu)
+		 * 	skaitļus ar tūkstošu atdalītāju (komatu vai apostrofu)
+		 * 	daļskaitļus (/ vai \)
+		 */
+		
+		root=new DigitNode();
+		root.canEnd=true;
+		branchList.add(root);
+		root.firstChild=new DigitNode();
+		root.firstChild.canEnd=true;
+		root.firstChild.firstChild=root.firstChild;
+		root.firstChild.nextSibling=new StringNode(".");
+		root.firstChild.nextSibling.canEnd=true;
+		root.firstChild.nextSibling.firstChild=new StringNode("-‐‑‒–—―'");
+		root.firstChild.nextSibling.firstChild.canEnd=true;		
+		root.firstChild.nextSibling.nextSibling=new StringNode(",");
+		root.firstChild.nextSibling.nextSibling.firstChild=new StringNode("-‐‑‒–—―'");
+		root.firstChild.nextSibling.nextSibling.firstChild.canEnd=true;
+		root.firstChild.nextSibling.nextSibling.firstChild.nextSibling=root;
+		root.firstChild.nextSibling.nextSibling.firstChild=root.firstChild.nextSibling.firstChild;
+		root.firstChild.nextSibling.nextSibling.nextSibling=new StringNode(" '/\\");
+		root.firstChild.nextSibling.nextSibling.nextSibling.firstChild=root;
+		
+		tmp=root.firstChild.nextSibling.firstChild;
+		tmp.nextSibling=new DigitNode();
+		tmp=tmp.nextSibling;
+		tmp.canEnd=true;
+		tmp.firstChild=new DigitNode();
+		tmp.firstChild.canEnd=true;
+		tmp.firstChild.firstChild=tmp.firstChild;
+		tmp.firstChild.nextSibling=new StringNode(".,");
+		tmp.firstChild.nextSibling.firstChild=new StringNode("-‐‑‒–—―'");
+		tmp.firstChild.nextSibling.firstChild.canEnd=true;
+		tmp.firstChild.nextSibling.firstChild.nextSibling=tmp;
+		tmp.firstChild.nextSibling.nextSibling=new StringNode(" '/\\");
+		tmp.firstChild.nextSibling.nextSibling.firstChild=tmp;
+		
 		
 		//sagatavojamies pirmajam meklētajam simbolam
 		this.reset();

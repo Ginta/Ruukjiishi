@@ -100,5 +100,11 @@
 		<r target="vsp">
 			<replace position="exact">vispār</replace>
 		</r>
+		<r target="vbt">
+			<replace position="exact">varbūt</replace>
+		</r>
+		<r target="vnk">
+			<replace position="exact">vienkārši</replace>
+		</r>
 	</fuzzy>
 </rules>

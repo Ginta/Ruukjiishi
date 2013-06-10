@@ -157,14 +157,16 @@ public class Splitting {
 		
 		int lastGoodEnd=0;
 		boolean canEndInNextStep=false;
+		boolean wasSpace=false;
 		
 		for (int i = 0; i < str.length(); i++) {
 			switch (statuss) {
 			case IN_SPACE:
 				if (!Splitting.isSpace(str.charAt(i))) {
-					if(progress!=i)
+					if(wasSpace && progress!=i)
 					{
 						tokens.add( new Word(str.substring(progress,i)) );
+						wasSpace=false;
 					}
 					if(str.charAt(i)=='\'')
 					{
@@ -198,8 +200,17 @@ public class Splitting {
 							//ja neatrada, pievieno simbolu rezultātam
 							tokens.add(	new Word(str.substring(i,i+1) ));
 							progress=i;
+							wasSpace=false;
 						}
 					}
+				}
+				else
+				{
+					if(wasSpace==false)
+					{
+						progress=i;
+					}
+					wasSpace=true;
 				}
 				break;
 			case IN_WORD:

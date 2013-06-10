@@ -5,24 +5,34 @@ import java.util.regex.Pattern;
 import common.Comment;
 import common.Word;
 import dictionary.Dictionary;
+import dictionary.DictionaryValue;
 
 public class TranslitProcessor {
 	
 	public Dictionary dic;
 	public Ngrams ngramTranslit;
 	public Ngrams ngramLatviesu;
-	public static double ngram_c= 0.19;
-	public static double rules_c = 0.48;
-	public static double dic_c = 0.33;
+	public static double ngram_c= 0.74;
+	public static double rules_c = 0.07;
+	public static double dic_c = 0.19;
 	public static double recall_c = 0.339596419; 
 	public static double precision_c = 0.3396008996;
 
 
-	public TranslitProcessor() throws Exception
+	public TranslitProcessor() 
 	{
-		dic = new Dictionary();
-		ngramTranslit = new Ngrams("<s>", "</s>", "<unk>", "models/ngramModels/vocabulary.txt", "models/ngramModels/translits_unk.model", 5);
-		ngramLatviesu = new Ngrams("<s>", "</s>", "<unk>", "models/ngramModels/vocabulary.txt", "models/ngramModels/latviesu_unk.model", 5);
+		try
+		{
+			dic = new Dictionary();
+			ngramTranslit = new Ngrams("<s>", "</s>", "<unk>", "models/ngramModels/vocabulary.txt", "models/ngramModels/translits_unk.model", 5);
+			ngramLatviesu = new Ngrams("<s>", "</s>", "<unk>", "models/ngramModels/vocabulary.txt", "models/ngramModels/latviesu_unk.model", 5);
+		}
+		
+		catch (Exception e)
+		{
+			System.out.println("Kļūda TranslitProcessor konstruktorā.");
+		}
+		
 	}
 	
 	public Comment processString(String comment)
@@ -34,7 +44,7 @@ public class TranslitProcessor {
 		return returnValue;
 	}
 	
-	private void calculateCumulativeResult(Comment comment)// jāizmaina
+	private void calculateCumulativeResult(Comment comment)
 	{
 		comment.percentageOfTranslitRules=comment.percentageOfTranslitRules/(double)comment.wordsTotal;
 		comment.ngramTranslitProbability=comment.ngramTranslitProbability/(double)comment.wordsTotal;
@@ -51,25 +61,27 @@ public class TranslitProcessor {
 	{
 		for(Word w : comment.words)
 		{
+			if(w.isWord==false) continue;
 			w.isInTranslitDictionary=this.isInDictionary(w.value);
 			w.ngramTranslitProbability=this.getNgramProbability(w.value);
 			w.percentageOfTranslitRules=this.getPercentageOfRules(w.value);
-			comment.wordsInTranslitDictionary+=(w.isInTranslitDictionary ? 1 : 0);
+			comment.wordsInTranslitDictionary+=w.isInTranslitDictionary;
 			comment.ngramTranslitProbability+=w.ngramTranslitProbability;
 			comment.percentageOfTranslitRules+=w.percentageOfTranslitRules;
 		}
 	}
 	
-	public boolean isInDictionary(String s)
+	public double isInDictionary(String s)
 	{
 		if(!Pattern.matches("[a-zA-Z0-9]+", s))
-		{
-			return false;
-		}
+			return 0;
 		
-		if(dic.get(s)==null && dic.get(s.toLowerCase())==null) return false;
+		DictionaryValue v = dic.get(s.toLowerCase());
 		
-		return true;
+		if(v==null) 
+			return 0;
+		
+		return v.probability;
 	}
 	
 	public double getNgramProbability(String s)

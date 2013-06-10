@@ -75,10 +75,10 @@ public class Convertor {
 		return result;
 	}
 
-	public void convertComments(String fileName) throws Exception
+	public ArrayList<Comment> convertComments(String fileName) throws Exception
 	{
-		FileProcessor f = new FileProcessor();
-		ArrayList<Comment> comments = f.processFile(fileName);
+		ArrayList<Comment> comments = FileProcessor.processFile(fileName);
+		ArrayList<Comment> resultComments=new ArrayList<Comment>();
 		String result;
 		
 		
@@ -86,23 +86,42 @@ public class Convertor {
 		{
 			System.out.println();
 			
-			for(Word word : comment.words)
+			Comment tmp = new Comment(null);
+			
+			if (comment.cumulativeProbabilty>=0.5)
 			{
-				if(word.value.matches("^[a-z][a-z0-9]+$"))
+				for(Word word : comment.words)
 				{
-					result=getBestMatch(word.value);
+					if(word.ngramTranslitProbability>0.0)
+					{
+						if(word.isWord)
+						{
+							result=getBestMatch(word.value);
+						}
+						else
+						{
+							result=word.value;
+						}
+						
+						tmp.words.add(new Word(result));		
+						System.out.print(result);
+					}
+					
+					else
+					{
+						tmp.words.add(word);		
+						System.out.print(word);
+					}
 				}
-				else
-				{
-					result=word.value;
-				}
-				
-				System.out.print(result);
-								
-				//System.out.println(this.getResults(word.value));
+				resultComments.add(tmp);
 			}
 			
-		}		
+			else
+			{
+				resultComments.add(comment);
+			}				
+		}
 		
+		return resultComments;		
 	}
 }
