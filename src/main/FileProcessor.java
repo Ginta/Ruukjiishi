@@ -38,6 +38,25 @@ public class FileProcessor {
 		return comments;
 	}
 	
+	public static void printCommentsToTxtFile(ArrayList<Comment> comments, String fileName)
+	{
+		try
+		{
+			BufferedWriter bufferedWriter = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(fileName),"UTF-8"));
+			for(Comment c : comments)
+			{
+				bufferedWriter.write(c.toString());
+				bufferedWriter.write('\n');
+			}
+			
+			bufferedWriter.close();
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+	}
+	
 	public static void printXmlResultInFile(String fileName,ArrayList<Comment> comments) throws Exception
 	{
 		 BufferedWriter bufferedWriter = null;

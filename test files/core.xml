@@ -116,7 +116,7 @@
 		<r target="toč">
 			<replace position="exact">tik tiešām</replace>
 		</r>
-		<r target="toč">
+		<r target="točno">
 			<replace position="exact">tik tiešām</replace>
 		</r>
 		<r target="sorry">
@@ -182,7 +182,9 @@
 		<r target="tml">
 			<replace position="exact">tamlīdzīgi</replace>
 		</r>
-		
+		<r target="nez">
+			<replace position="exact">nezinu</replace>
+		</r>
 	</fuzzy>
 </rules>
 

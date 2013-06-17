@@ -53,13 +53,21 @@ public class Convertor {
 		
 		sorted.addAll(r.DICT_EXACT.data.keySet());
 		sorted.addAll(r.DICT_EXACT_GUESS.data.keySet());
-		sorted.addAll(r.DICT_FUZZY.data.keySet());
-		sorted.addAll(r.DICT_FUZZY_GUESS.data.keySet());
+		
+		if(sorted.isEmpty())
+		{
+			sorted.addAll(r.DICT_FUZZY.data.keySet());
+			sorted.addAll(r.DICT_FUZZY_GUESS.data.keySet());
+		}
+		
+		if(sorted.isEmpty())
+		{
+			sorted.addAll(r.NO_DICT_EXACT);
+		}
 		
 		if(sorted.isEmpty())
 		{
 			sorted.addAll(r.NO_DICT_FUZZY);
-			sorted.addAll(r.NO_DICT_EXACT);
 		}
 		
 		if(sorted.isEmpty())
@@ -88,7 +96,7 @@ public class Convertor {
 			
 			Comment tmp = new Comment(null);
 			
-			if (comment.cumulativeProbabilty>=0.5)
+			if (true /*comment.cumulativeProbabilty>=0.5*/)
 			{
 				for(Word word : comment.words)
 				{

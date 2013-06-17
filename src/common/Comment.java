@@ -16,6 +16,7 @@ public class Comment {
 	
 	public Comment(String comment)
 	{
+		//comment=comment.trim();
 		original=comment;
 		Splitting spliter=new Splitting();
 		words=spliter.tokenize(comment);
@@ -31,9 +32,21 @@ public class Comment {
 		percentageOfTranslitRules=0;
 	}
 	
+	public int wordcount()
+	{
+		wordsTotal=0;
+		for(Word w : words)
+		{
+			if(w.isWord)
+				wordsTotal++;
+		}
+		return wordsTotal;
+		
+	}
+	
 	public Integer[] compareComment(Comment c)
 	{
-		int l = c.words.size()+1;
+		int l = c.words.size();
 		int iterator=0;
 		Integer [] result = new Integer[l];
 		
@@ -44,5 +57,32 @@ public class Comment {
 		}
 		
 		return result;
+	}
+	
+	public ArrayList<String> getWords()
+	{
+		ArrayList<String> l=new ArrayList<String>();
+		
+		for(Word w : words)
+		{
+			if(w.isWord)
+			{
+				l.add(w.toString());
+			}
+		}
+		
+		return l;
+	}
+	
+	public String toString()
+	{
+		StringBuilder b=new StringBuilder();
+		
+		for(Word w : words)
+		{
+			b.append(w.toString());
+		}
+		
+		return b.toString();
 	}
 }

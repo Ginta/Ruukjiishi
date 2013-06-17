@@ -20,7 +20,7 @@ public class Word {
 
 		else
 		{
-			System.out.print(" ["+w+"] ");
+			//System.out.print(" ["+w+"] ");
 			return 0;
 		}
 			

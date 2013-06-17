@@ -1,6 +1,10 @@
 package convert_test;
 import static org.junit.Assert.*;
+
+import java.util.ArrayList;
+
 import main.FileProcessor;
+import methods.TranslitProcessor;
 
 import org.junit.*;
 
@@ -18,45 +22,80 @@ public class TransliteratorTests {
 		 r = SharedObjects.getConvertor();
 	 }
 	
-	@Test
+	/*@Test
 	public void test1() throws Exception
 	{			
 		r.convertComments("test files/conv_test.txt");	
-	}
+	}*/
 	
 	@Test
 	public void test2() throws Exception
 	{
-		FileProcessor.processTestFile("test files/translits_testam.tr", "test files/translits_testam.lv");
+		
+		ArrayList<Integer[]> a = FileProcessor.processTestFile("test files/dazadi_testam.tr", "test files/dazadi_testam.lv");
+
 	}
 			
 	@Test
 	public void test3() throws Exception
 	{
-		//Convertor r = new Convertor();
-		
-		System.out.println(r.getResults("ruukjiishi"));
-		System.out.println(r.getResults("pareizs"));
-		System.out.println(r.getResults("vārdiņš"));
-		System.out.println(r.getResults("vaardiņsh"));
-		System.out.println(r.getResults("4dien"));
-		System.out.println(r.getResults("4tais"));
-		
+		System.out.println(r.getBestMatch("ruukjiishi"));
+		assertEquals("rūķīši", r.getBestMatch("ruukjiishi"));
 	}
 	
 	@Test
-	public void test4() throws Exception
+	public void test4() throws Exception //drīkst nestrādāt
 	{
-		//Convertor r = new Convertor();
-		
-		//assertEquals("Es taa pat dariitu! Un draugus talkaa sauktu! :D :D :D", "Es taa pat dariitu! Un draugus talkaa sauktu! :D :D :D", tester.multiply(10, 5));		
+		String token="nezinu";
+		String expected="nezinu";
+		System.out.println(r.getResults(token));
+		assertEquals(expected, r.getBestMatch(token));
 	}
 	
 	@Test
-	public void SentenceTest()
+	public void test5() throws Exception
 	{
-		assertEquals("es draudzējos ar viss labākām draudzenēm no klases ar endiju","es draudzejos ar viss labakam draudzenem no klases ar endiju");
+		String token="4ajai";
+		String expected="ceturtajai";
+		System.out.println(r.getResults(token));
+		assertEquals(expected, r.getBestMatch(token));
 	}
+	
+	@Test
+	public void test7() throws Exception //exact pozīcija likumu failā
+	{
+		String token="vbt";
+		String expected="varbūt";
+		System.out.println(r.getResults(token));
+		assertEquals(expected, r.getBestMatch(token));
+	}
+	
+	@Test
+	public void test8() throws Exception //exact pozīcija likumu failā
+	{
+		String token="toč";
+		String expected="tik tiešām";
+		System.out.println(r.getResults(token));
+		assertEquals(expected, r.getBestMatch(token));
+	}
+	
+	@Test
+	public void test9() throws Exception //exact pozīcija likumu failā
+	{
+		String token="mja";
+		String expected="mjā";
+		System.out.println(r.getResults(token));
+		assertEquals(expected, r.getBestMatch(token));
+	}
+	
+	@Test
+	public void test10() throws Exception //exact pozīcija likumu failā
+	{
+		String token="okei";
+		String expected="ok";
+		System.out.println(r.getResults(token));
+		assertEquals(expected, r.getBestMatch(token));
+	}	
 	
 }
 

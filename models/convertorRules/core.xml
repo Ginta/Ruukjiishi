@@ -32,6 +32,10 @@
 		<r target="ō">o</r>
 		
 		<!-- numbers fuzzy -->
+		<r target="0">
+			<replace position="begin">nul</replace>
+			<replace position="begin">null</replace>
+		</r>
 		<r target="1">
 			<replace position="begin">pirm</replace>
 			<replace position="begin">vien</replace>
@@ -74,13 +78,114 @@
 			<replace position="begin">devī</replace>
 			<replace position="begin">deviņ</replace>
 		</r>
+				<r target="c">
+			<replace position="end">ts</replace>
+		</r>
 		
 		<!-- comon mistakes -->
+	
+
+	</fuzzy>
+	
+	<exact>
+		<r target="0ajam">
+			<replace position="exact">nultajam</replace>
+		</r>
+		<r target="1ajam">
+			<replace position="exact">pirmajam</replace>
+		</r>
+				<r target="2ajam">
+			<replace position="exact">otrajam</replace>
+		</r>
+				<r target="3ajam">
+			<replace position="exact">trešajam</replace>
+		</r>
+				<r target="4tajam">
+			<replace position="exact">ceturtajam</replace>
+		</r>
+				<r target="5tajam">
+			<replace position="exact">piektajam</replace>
+		</r>
+				<r target="6tajam">
+			<replace position="exact">sestajam</replace>
+		</r>
+				<r target="7tajam">
+			<replace position="exact">setptītajam</replace>
+		</r>
+				<r target="8tajam">
+			<replace position="exact">astotajam</replace>
+		</r>
+				<r target="9tajam">
+			<replace position="exact">devītajam</replace>
+		</r>
+		<r target="kkas">
+			<replace position="begin">kaut kas</replace>
+		</r>
 		<r target="kk">
 			<replace position="begin">kaut k</replace>
 		</r>
-		<r target="c">
-			<replace position="end">ts</replace>
+
+		<r target="waj">
+			<replace position="exact">vai</replace>
+		</r>
+		<r target="vaj">
+			<replace position="exact">vai</replace>
+		</r>
+		<r target="nau">
+			<replace position="exact">nav</replace>
+		</r>
+		<r target="jaw">
+			<replace position="exact">jau</replace>
+		</r>
+		<r target="smth">
+			<replace position="exact">kaut kas</replace>
+		</r>
+		<r target="vsp">
+			<replace position="exact">vispār</replace>
+		</r>
+		
+		
+		<r target="piem">
+			<replace position="exact">piemēram</replace>
+		</r>	
+		<r target="nez">
+			<replace position="exact">nezinu</replace>
+		</r>
+		<r target="toč">
+			<replace position="exact">tik tiešām</replace>
+		</r>
+		<r target="točno">
+			<replace position="exact">tik tiešām</replace>
+		</r>
+		<r target="sorry">
+			<replace position="exact">atvainojos</replace>
+		</r>
+		<r target="vaig">
+			<replace position="exact">vajag</replace>
+		</r>		
+		<r target="ever">
+			<replace position="exact">vispār</replace>
+		</r>
+		<r target="davai">
+			<replace position="exact">aiziet</replace>
+		</r>
+		<r target="davaj">
+			<replace position="exact">aiziet</replace>
+		</r>
+		<r target="menti">
+			<replace position="exact">poicisti</replace>
+		</r>
+		<r target="mja">
+			<replace position="exact">mjā</replace>
+		</r>
+		<r target="mjaa">
+			<replace position="exact">mjā</replace>
+		</r>
+		<r target="nja">
+			<replace position="exact">njā</replace>
+		</r>
+		<r target="njaa">
+			<replace position="exact">njā</replace>
 		</r>
 		<r target="waj">
 			<replace position="exact">vai</replace>
@@ -100,11 +205,99 @@
 		<r target="vsp">
 			<replace position="exact">vispār</replace>
 		</r>
+	
+		<r target="piem">
+			<replace position="exact">piemēram</replace>
+		</r>	
+		<r target="nez">
+			<replace position="exact">nezinu</replace>
+		</r>
+		<r target="toč">
+			<replace position="exact">tik tiešām</replace>
+		</r>
+		<r target="točno">
+			<replace position="exact">tik tiešām</replace>
+		</r>
+		<r target="sorry">
+			<replace position="exact">atvainojos</replace>
+		</r>
+		<r target="vaig">
+			<replace position="exact">vajag</replace>
+		</r>		
+		<r target="ever">
+			<replace position="exact">vispār</replace>
+		</r>
+		<r target="davai">
+			<replace position="exact">aiziet</replace>
+		</r>
+		<r target="davaj">
+			<replace position="exact">aiziet</replace>
+		</r>
+		<r target="menti">
+			<replace position="exact">poicisti</replace>
+		</r>
+		<r target="mja">
+			<replace position="exact">mjā</replace>
+		</r>
+		<r target="mjaa">
+			<replace position="exact">mjā</replace>
+		</r>
+		<r target="nja">
+			<replace position="exact">njā</replace>
+		</r>
+		<r target="njaa">
+			<replace position="exact">njā</replace>
+		</r>
+		<r target="ka">
+			<replace position="exact">ka</replace>
+		</r>
+		<r target="paga">
+			<replace position="exact">pag</replace>
+		</r>
+		<r target="psc">
+			<replace position="exact"> </replace>
+		</r>
+		<r target="a">
+			<replace position="exact">bet</replace>
+		</r>
+		<r target="moš">
+			<replace position="exact">varbūt</replace>
+		</r>
+		<r target="mos">
+			<replace position="exact">varbūt</replace>
+		</r>
+		<r target="mosh">
+			<replace position="exact">varbūt</replace>
+		</r>
+		<r target="okei">
+			<replace position="exact">ok</replace>
+		</r>
+		<r target="maybe">
+			<replace position="exact">varbūt</replace>
+		</r>
+		<r target="mybe">
+			<replace position="exact">varbūt</replace>
+		</r>
+		<r target="vot">
+			<replace position="exact">lūk</replace>
+		</r>
+		<r target="tml">
+			<replace position="exact">tamlīdzīgi</replace>
+		</r>
+		<r target="nez">
+			<replace position="exact">nezinu</replace>
+		</r>
 		<r target="vbt">
 			<replace position="exact">varbūt</replace>
+		</r>
+		<r target="kpc">
+			<replace position="exact">kāpēc</replace>
 		</r>
 		<r target="vnk">
 			<replace position="exact">vienkārši</replace>
 		</r>
-	</fuzzy>
+	</exact>
 </rules>
+
+
+
