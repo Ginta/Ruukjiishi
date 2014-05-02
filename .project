@@ -3,6 +3,7 @@
 	<name>Translits</name>
 	<comment></comment>
 	<projects>
+		<project>Morphology</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
